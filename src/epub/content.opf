@@ -39,9 +39,70 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:language>en-GB</dc:language>
+		<!-- TRANSCRIPTIONS -->
+		<!-- Reginald -->
+		<dc:source>https://www.gutenberg.org/ebooks/2830</dc:source>
+		<!-- Reginald in Russia-->
+		<dc:source>https://www.gutenberg.org/ebooks/1870</dc:source>
+		<!-- The Chronicles of Clovis -->
+		<dc:source>https://www.gutenberg.org/ebooks/3688</dc:source>
+		<!-- Toys of Peace -->
+		<dc:source>https://www.gutenberg.org/ebooks/1477</dc:source>
+		<!-- Beasts and Super Beasts -->
+		<dc:source>https://www.gutenberg.org/ebooks/269</dc:source>
+		<!-- SCANS -->
+		<!-- Reginald -->
+		<!-- Reginald; … on Christmas Presents; … on the Academy; … at the Theatre;
+		     … Peace Poem; … Choir Treat; … on Worries; … on House-Parties; … at the Carlton;
+		     … on Besetting Sins; … Drama; … on Tariffs; … Christmas Revel; … Rubaiyat;
+		     The Innocence of Reginald -->
+		<dc:source>https://archive.org/details/reginald00sakirich</dc:source>
+		<!-- Reginald in Russia -->
+		<!-- Reginald in Russia, The Reticence of Lady Anne, The Lost Sanjak; The Sex that
+		     Doesn't Shop; The Blood-Feud of Toad-Water; A Young-Turkish Catastrophe;
+		     Judkin of the Parcels; Gabriel-Ernest; The Saint and the Goblin; The Soul of
+		     Laploshka; The Bag; The Strategist; Cross Currents; The Baker’s Dozen;
+		     The Mouse -->
+		<dc:source>https://archive.org/details/reginaldinrussia00sakirich</dc:source>
+		<!-- The Chronicles of Clovis -->
+		<!-- Esmé; The Match-Maker; Tobermory; Mrs. Packletide’s Tiger; The Stampeding of
+		     Lady Bastable; The Background; Hermann the Irascible; The Unrest-Cure;
+		     The Jesting of Arlington Stringham; Sredni Vashtar; Adrian; The Chaplet;
+		     The Quest; Wratislav; The Easter Egg; Filboid Studge; The Music on the Hill;
+		     The Story of St. Vespaluus; The Way to the Dairy; The Peace Offering; The Peace
+		     of Mowsle Barton; The Talking-Out of Tarrington; The Hounds of Fate;
+		     The Recessional; A Matter of Sentiment; The Secret Sin of Septimus Brope;
+		     "Ministers of Grace"; The Remoulding of Groby Lington -->
+		<dc:source>https://archive.org/details/bwb_S0-AHX-354</dc:source>
+		<!-- Toys of Peace -->
+		<!-- Toys of Peace; Louise; Tea; Crispina Umberleigh; Wolves of Cernogratz;
+		     Louis; The Guests; The Penance; The Phantom Luncheon; A Bread and Butter Miss;
+		     Bertie’s Christmas Eve; Forewarned; The Interlopers; Quail Seed; Canossa;
+		     The Thread; Excepting Mrs. Pentherby; Mark; The Hedgehog; The Mappined Life -->
+		<dc:source>https://archive.org/details/toysofpeaceother0006saki</dc:source>
+		<!-- Beasts and Super Beasts -->
+		<!-- The She-Wolf; Laura; The Boar-Pig; The Brogue; The Hen; The Open Window;
+		     The Treasure-Ship; The Cobweb; The Lull; The Unkindest Blow; The Romancers;
+		     The Schartz-Metterklume Method; The Seventh Pullet; The Blind Spot; Dusk;
+		     A Touch of Realism; Cousin Teresa; The Yarkand Manner; The Byzantine Omelette;
+		     The Feast of Nemesis; The Dreamer; The Quince Tree; The Forbidden Buzzards;
+		     The Stake; Clovis on Parental Responsibilities; A Holiday Task; The Stalled Ox;
+		     The Story-Teller; A Defensive Diamond; The Elk; Down Pens; The Name-Day;
+		     The Lumber Room; Fur; The Philanthropist and the Happy Cat; On Approval -->
+		<dc:source>https://archive.org/details/beastssuperbeast00saki_0</dc:source>
+		<!-- The Square Egg -->
+		<!-- The Gala Programme; The Infernal Parliament; Clovis on the Alleged Romance of
+		     Business; The Comments of Moung Ka -->
+		<dc:source>https://archive.org/details/squareeggothersk0007saki</dc:source>
+		<!-- A Housing Problem (p. 60) -->
+		<dc:source>https://archive.org/details/the-bystander/1910-1919/1913/The%20Bystander%20%230501v039%20%281913-07-09%29%20%28BNA%29</dc:source>
+		<!-- A Sacrifice to Necessity (p. 149) -->
+		<dc:source>https://archive.org/details/the-bystander/1910-1919/1913/The%20Bystander%20%230515v040%20%281913-10-15%29%20%28BNA%29</dc:source>
+		<!-- A Shot in the Dark (p. 514) -->
+		<dc:source>https://archive.org/details/the-bystander/1910-1919/1913/The%20Bystander%20%230522v040%20%281913-12-03%29%20%28BNA%29</dc:source>
+		<!-- The East Wing (p. 39) -->
+		<dc:source>https://archive.org/details/methuensannual0000evlu</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
