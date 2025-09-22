@@ -262,3 +262,11 @@ span.elision{
 	margin-left: 3em;
 }
 /* end of poem/verse/song */
+
+/* custom */
+#the-bakers-dozen header{
+	font-size: 1.17em;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+/* end of custom */
