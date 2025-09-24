@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="reginalds-peace-poem.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>The dash at the end of the line matches the scans.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
