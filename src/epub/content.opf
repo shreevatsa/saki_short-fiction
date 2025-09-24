@@ -283,7 +283,7 @@
 		<item href="text/the-stalled-ox.xhtml" id="the-stalled-ox.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-stampeding-of-lady-bastable.xhtml" id="the-stampeding-of-lady-bastable.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-of-st-vespaluus.xhtml" id="the-story-of-st-vespaluus.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-story-teller.xhtml" id="the-story-teller.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-storyteller.xhtml" id="the-storyteller.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-strategist.xhtml" id="the-strategist.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-talking-out-of-tarrington.xhtml" id="the-talking-out-of-tarrington.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-threat.xhtml" id="the-threat.xhtml" media-type="application/xhtml+xml"/>
@@ -506,7 +506,7 @@
 		<!-- 1913-08-19, Morning Post -->
 		<itemref idref="the-hedgehog.xhtml"/>
 		<!-- 1913-09-02, Morning Post -->
-		<itemref idref="the-story-teller.xhtml"/>
+		<itemref idref="the-storyteller.xhtml"/>
 		<!-- 1913-10-14, Morning Post -->
 		<itemref idref="the-lumber-room.xhtml"/>
 		<!-- 1913-10-15, Bystander -->
