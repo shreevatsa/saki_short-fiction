@@ -19,6 +19,7 @@
 		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -112,6 +113,8 @@
 		<dc:source>https://archive.org/details/the-bystander/1910-1919/1913/The%20Bystander%20%230522v040%20%281913-12-03%29%20%28BNA%29</dc:source>
 		<!-- The East Wing (p. 39) -->
 		<dc:source>https://archive.org/details/methuensannual0000evlu</dc:source>
+		<!-- Mrs. Pendercoet's Lost Identity (p. 20) -->
+		<dc:source>https://www.google.com/books/edition/The_Odd_Volume/g5YXAQAAIAAJ</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -197,6 +200,8 @@
 		<item href="text/ministers-of-grace.xhtml" id="ministers-of-grace.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/morlvera.xhtml" id="morlvera.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mrs-packletides-tiger.xhtml" id="mrs-packletides-tiger.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mrs-pendercoets-lost-identity.xhtml" id="mrs-pendercoets-lost-identity.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/new-wine-in-old-bottles.xhtml" id="new-wine-in-old-bottles.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-approval.xhtml" id="on-approval.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/quail-seed.xhtml" id="quail-seed.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/reginald-at-the-carlton.xhtml" id="reginald-at-the-carlton.xhtml" media-type="application/xhtml+xml"/>
@@ -217,6 +222,7 @@
 		<item href="text/shock-tactics.xhtml" id="shock-tactics.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sredni-vashtar.xhtml" id="sredni-vashtar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/tea.xhtml" id="tea.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-almanac.xhtml" id="the-almanac.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-background.xhtml" id="the-background.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-bag.xhtml" id="the-bag.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-bakers-dozen.xhtml" id="the-bakers-dozen.xhtml" media-type="application/xhtml+xml"/>
@@ -257,6 +263,7 @@
 		<item href="text/the-name-day.xhtml" id="the-name-day.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-occasional-garden.xhtml" id="the-occasional-garden.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-open-window.xhtml" id="the-open-window.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-optimist.xhtml" id="the-optimist.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-oversight.xhtml" id="the-oversight.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-peace-of-mowsle-barton.xhtml" id="the-peace-of-mowsle-barton.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-peace-offering.xhtml" id="the-peace-offering.xhtml" media-type="application/xhtml+xml"/>
@@ -270,6 +277,7 @@
 		<item href="text/the-recessional.xhtml" id="the-recessional.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-remoulding-of-groby-lington.xhtml" id="the-remoulding-of-groby-lington.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-reticence-of-lady-anne.xhtml" id="the-reticence-of-lady-anne.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-romance-of-business.xhtml" id="the-romance-of-business.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-romancers.xhtml" id="the-romancers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-saint-and-the-goblin.xhtml" id="the-saint-and-the-goblin.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-schartz-metterklume-method.xhtml" id="the-schartz-metterklume-method.xhtml" media-type="application/xhtml+xml"/>
@@ -304,10 +312,12 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<!-- 1891 (written, per Toys of Peace footnote), 1901-09-14, Westminster Gazette -->
+		<itemref idref="the-image-of-the-lost-soul.xhtml"/>
 		<!-- 1901-01-26, Westminster Gazette -->
 		<itemref idref="the-blood-feud-of-toad-water.xhtml"/>
-		<!-- 1901-09-14, Westminster Gazette -->
-		<itemref idref="the-image-of-the-lost-soul.xhtml"/>
+		<!-- 1901-04-27, Fun -->
+		<itemref idref="new-wine-in-old-bottles.xhtml"/>
 		<!-- 1901-09-28, Westminster Gazette -->
 		<itemref idref="reginald.xhtml"/>
 		<!-- 1901-12-18, Westminster Gazette -->
@@ -370,7 +380,7 @@
 		<itemref idref="the-matchmaker.xhtml"/>
 		<!-- 1909-11-27, Westminster Gazette -->
 		<itemref idref="tobermory.xhtml"/>
-		<!-- 1909-, Westminster Gazette -->
+		<!-- 1909-12-24, Westminster Gazette -->
 		<itemref idref="hermann-the-irascible-a-story-of-the-great-weep.xhtml"/>
 		<!-- 1910-03-12, Westminster Gazette -->
 		<itemref idref="wratislav.xhtml"/>
@@ -430,6 +440,8 @@
 		<itemref idref="excepting-mrs-pentherby.xhtml"/>
 		<!-- 1911-10-31, Morning Post -->
 		<itemref idref="the-seventh-pullet.xhtml"/>
+		<!-- 1911-11-01, Odd Volume -->
+		<itemref idref="mrs-pendercoets-lost-identity.xhtml"/>
 		<!-- 1911-11-18, Westminster Gazette -->
 		<itemref idref="the-open-window.xhtml"/>
 		<!-- 1911-11-21, Morning Post -->
@@ -442,6 +454,8 @@
 		<itemref idref="quail-seed.xhtml"/>
 		<!-- 1912-01-17, Bystander -->
 		<itemref idref="the-interlopers.xhtml"/>
+		<!-- 1912-02-02, Westminster Gazette -->
+		<itemref idref="the-optimist.xhtml"/>
 		<!-- 1912-02-20, Morning Post -->
 		<itemref idref="the-treasure-ship.xhtml"/>
 		<!-- 1912-02-21, Bystander -->
@@ -500,6 +514,8 @@
 		<itemref idref="the-stake.xhtml"/>
 		<!-- 1913-05-03, Westminster Gazette -->
 		<itemref idref="clovis-on-parental-responsibilities.xhtml"/>
+		<!-- 1913-06-17, Morning Post -->
+		<itemref idref="the-almanac.xhtml"/>
 		<!-- 1913-07-09, Bystander -->
 		<itemref idref="a-housing-problem.xhtml"/>
 		<!-- 1913-07-15, Morning Post -->
@@ -529,7 +545,7 @@
 		<!-- 1914-03-11, Morning Post -->
 		<itemref idref="fate.xhtml"/>
 		<!-- 1914-03-19, Daily News and Leader -->
-		<itemref idref="clovis-on-the-alleged-romance-of-business.xhtml"/>
+		<itemref idref="the-romance-of-business.xhtml"/>
 		<!-- 1914-03-25, Morning Post -->
 		<itemref idref="the-toys-of-peace.xhtml"/>
 		<!-- 1914-04-07, Morning Post -->
@@ -562,6 +578,7 @@
 		<!-- 1919 (book, but written prior to 1916), from Toys of Peace -->
 		<itemref idref="a-bread-and-butter-miss.xhtml"/>
 		<itemref idref="canossa.xhtml"/>
+		<itemref idref="clovis-on-the-alleged-romance-of-business.xhtml"/>
 		<itemref idref="forewarned.xhtml"/>
 		<!-- 1916-08-17, Morning Post -->
 		<itemref idref="for-the-duration-of-the-war.xhtml"/>
