@@ -65,7 +65,7 @@
 		<!-- Reginald; … on Christmas Presents; … on the Academy; … at the Theatre;
 		… Peace Poem; … Choir Treat; … on Worries; … on House-Parties; … at the Carlton;
 		… on Besetting Sins; … Drama; … on Tariffs; … Christmas Revel; … Rubaiyat;
-		The Innocence of Reginald -->
+		The Innocence of … -->
 		<dc:source>https://archive.org/details/reginald00sakirich</dc:source>
 		<!-- Reginald in Russia -->
 		<!-- Reginald in Russia, The Reticence of Lady Anne, The Lost Sanjak; The Sex that Doesn't
@@ -124,10 +124,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Saki</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81079486</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">August Macke</dc:contributor>
+		<meta property="file-as" refines="#artist">Macke, August</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/August_Macke</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50040893</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="editor">Rothay Reynolds</dc:contributor>
 		<meta property="file-as" refines="#editor">Reynolds, Rothay</meta>
@@ -588,7 +588,7 @@
 		<itemref idref="morlvera.xhtml"/>
 		<!-- 1914-07-28, Morning Post -->
 		<itemref idref="tea.xhtml"/>
-		<!-- 1919 (book, but written prior to 1916), from Toys of Peace -->
+		<!-- 1919 (book date, but written prior to 1916), from Toys of Peace -->
 		<itemref idref="a-bread-and-butter-miss.xhtml"/>
 		<itemref idref="clovis-on-the-alleged-romance-of-business.xhtml"/>
 		<itemref idref="forewarned.xhtml"/>
