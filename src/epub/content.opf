@@ -44,7 +44,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of Saki (H. H. Munro) short stories, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
@@ -117,7 +117,7 @@
 		<dc:source>https://archive.org/details/methuensannual0000evlu</dc:source>
 		<!-- Mrs. Pendercoet's Lost Identity (p. 20) -->
 		<dc:source>https://www.google.com/books/edition/The_Odd_Volume/g5YXAQAAIAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Where known, the date of writing is used when it differs from the date of publication. For example, "The Image of the Lost Soul," while not published until 1919 in Toys of Peace, has an endnote in that book indicating that it was written in 1891, while three other stories appearing for the first time in that book are known to have been written before his last story filed from the front of WWI. Similarly, it's known that the five stories Munro wrote specifically for The Chronicles of Clovis were finished by the end of August 1911, when the book went to the printer.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/saki_short-fiction</meta>
@@ -437,7 +437,7 @@
 		<itemref idref="the-infernal-parliament.xhtml"/>
 		<!-- 1911-08-26, Westminster Gazette -->
 		<itemref idref="the-talking-out-of-tarrington.xhtml"/>
-		<!-- 1911, original to Chronicles of Clovis -->
+		<!-- 1911-08-31, original to Chronicles of Clovis -->
 		<itemref idref="the-music-on-the-hill.xhtml"/>
 		<itemref idref="the-remoulding-of-groby-lington.xhtml"/>
 		<itemref idref="the-secret-sin-of-septimus-brope.xhtml"/>
