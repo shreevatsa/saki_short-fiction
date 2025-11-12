@@ -144,9 +144,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Rothay_Reynolds</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n2017044726</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-1">Jane Duff</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Duff, Jane</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
