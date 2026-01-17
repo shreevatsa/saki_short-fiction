@@ -1,14 +1,14 @@
 index,title,href,rating_story,tone,theme_children_triumph,theme_animals,theme_child_lies,theme_trickster,theme_comeuppance,theme_supernatural,theme_social_satire,theme_meddling_aunt_guardian,theme_hoax_practical_joke,theme_etiquette_weapon,theme_snobbery_status_anxiety,theme_hypocrisy_respectability,theme_philanthropy_backfires,theme_country_house_politics,theme_gossip_scandal_reputation,theme_exotic_elsewhere_disruption,theme_sudden_darkness_punchline,themes_other,notes
-1,The Image of the Lost Soul,text/the-image-of-the-lost-soul.xhtml,,,,,,,,,,,,,,,,,,,,,
-2,Dogged,text/dogged.xhtml,,,,,,,,,,,,,,,,,,,,,
-3,The Blood-Feud of Toad-Water,text/the-blood-feud-of-toad-water.xhtml,,,,,,,,,,,,,,,,,,,,,
-4,New Wine in Old Bottles,text/new-wine-in-old-bottles.xhtml,,,,,,,,,,,,,,,,,,,,,
-5,Reginald,text/reginald.xhtml,,,,,,,,,,,,,,,,,,,,,
-6,Reginald on Christmas Presents,text/reginald-on-christmas-presents.xhtml,,,,,,,,,,,,,,,,,,,,,
-7,The Saint and the Goblin,text/the-saint-and-the-goblin.xhtml,,,,,,,,,,,,,,,,,,,,,
-8,Reginald on the Academy,text/reginald-on-the-academy.xhtml,,,,,,,,,,,,,,,,,,,,,
-9,Reginald’s Peace Poem,text/reginalds-peace-poem.xhtml,,,,,,,,,,,,,,,,,,,,,
-10,Reginald’s Choir Treat,text/reginalds-choir-treat.xhtml,,,,,,,,,,,,,,,,,,,,,
+1,The Image of the Lost Soul,text/the-image-of-the-lost-soul.xhtml,4,serious,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,allegory; compassion,Bird finds refuge by lost-soul statue; verger cages bird; bird dies; statue falls
+2,Dogged,text/dogged.xhtml,4,funny,n,y,n,n,y,n,y,n,n,n,n,y,y,n,y,n,n,bohemian slide; a dog as fate,Timid man buys fox terrier Beelzebub at church bazaar; dog drags him into bohemian life; ends belonging to dog
+3,The Blood-Feud of Toad-Water,text/the-blood-feud-of-toad-water.xhtml,3,funny,n,y,n,n,n,n,y,n,n,n,n,y,n,n,y,n,n,neighbour feud; rural spite,Hen raids onion bed; two families feud for years; gossip about relatives; kittens drowned; feud survives
+4,New Wine in Old Bottles,text/new-wine-in-old-bottles.xhtml,3,funny,n,n,n,n,n,n,y,n,n,n,y,n,n,y,n,n,pretentious learning; malapropisms,Two market women flaunt cheap self-education; weaponise big words; gossip and grudges
+5,Reginald,text/reginald.xhtml,4,funny,n,n,n,y,y,n,y,n,n,y,y,y,n,y,n,n,garden party sabotage; wit,Narrator brings Reginald to garden party; he needles the Archdeacon’s wife; social scene derails; ends on Caspian pun
+6,Reginald on Christmas Presents,text/reginald-on-christmas-presents.xhtml,3,funny,n,n,n,n,n,n,y,y,n,n,y,n,n,n,n,n,presents; aunts; taste,Reginald on bad gift choices; laments aunts and prayerbooks; prefers liqueurs and jewellery
+7,The Saint and the Goblin,text/the-saint-and-the-goblin.xhtml,4,mixed,n,y,n,y,y,y,y,n,y,n,n,y,y,n,y,n,n,charity; appearances; cathedral gossip,Stone saint tries to help church mice; goblin’s “help” yields a coin; vergeress turns it into a mock decoration; mice stay poor
+8,Reginald on the Academy,text/reginald-on-the-academy.xhtml,3,funny,n,n,n,n,n,n,y,n,n,y,y,n,n,n,n,n,art talk; country cousins,Reginald attends the Academy for conversation; jokes about names and acquaintances; mocks slow-rising artists; thirty equals failure
+9,Reginald’s Peace Poem,text/reginalds-peace-poem.xhtml,3,funny,n,y,n,n,n,n,y,n,n,n,n,n,n,n,n,y,y,war/peace sentimentality; rhyme,Reginald composes a Peace poem with widgeon and hartebeest; frets over rhymes; concludes he would rather they went on with the war
+10,Reginald’s Choir Treat,text/reginalds-choir-treat.xhtml,4,funny,n,y,n,y,y,n,y,n,y,n,n,y,n,n,y,n,n,reformation backfires; pagan parody,Amabel tries to reform Reginald; he stages the choir outing as a Bacchanalian village procession with a goat; scandal follows
 11,Reginald at the Theatre,text/reginald-at-the-theatre.xhtml,,,,,,,,,,,,,,,,,,,,,
 12,Reginald on House-Parties,text/reginald-on-house-parties.xhtml,,,,,,,,,,,,,,,,,,,,,
 13,Judkin of the Parcels,text/judkin-of-the-parcels.xhtml,,,,,,,,,,,,,,,,,,,,,
