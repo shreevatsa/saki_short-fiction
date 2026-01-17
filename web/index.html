@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Saki: Story Annotations</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar__left">
+        <h1>Saki: Story Annotations</h1>
+        <div id="status" class="status">Loading…</div>
+      </div>
+
+      <div class="topbar__right">
+        <label class="field">
+          <span class="field__label">Search</span>
+          <input id="search" type="search" placeholder="Title / notes" autocomplete="off" />
+        </label>
+
+        <label class="field">
+          <span class="field__label">Min rating</span>
+          <select id="minRating">
+            <option value="1" selected>1+</option>
+            <option value="2">2+</option>
+            <option value="3">3+</option>
+            <option value="4">4+</option>
+            <option value="5">5</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span class="field__label">Max darkness</span>
+          <select id="maxDarkness">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5" selected>5</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span class="field__label">Sort</span>
+          <select id="sortKey"></select>
+        </label>
+
+        <button id="sortDir" class="button" type="button" title="Toggle sort direction">↓</button>
+      </div>
+    </header>
+
+    <div class="layout">
+      <aside class="sidebar">
+        <div class="sidebar__header">
+          <h2>Filters</h2>
+          <button id="reset" class="button button--secondary" type="button">Reset</button>
+        </div>
+        <div id="filters" class="filters"></div>
+      </aside>
+
+      <main class="main">
+        <div class="tableWrap">
+          <table id="storiesTable" class="table">
+            <thead id="tableHead"></thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+      </main>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
+
