@@ -1,0 +1,1422 @@
+[
+  {
+    "index": 1,
+    "title": "The Image of the Lost Soul",
+    "href": "text/the-image-of-the-lost-soul.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Image of the Lost Soul",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Image_of_the_Lost_Soul",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 2,
+    "title": "Dogged",
+    "href": "text/dogged.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 3,
+    "title": "The Blood-Feud of Toad-Water",
+    "href": "text/the-blood-feud-of-toad-water.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/The Blood-Feud of Toad-Water",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/The_Blood-Feud_of_Toad-Water",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 4,
+    "title": "New Wine in Old Bottles",
+    "href": "text/new-wine-in-old-bottles.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 5,
+    "title": "Reginald",
+    "href": "text/reginald.xhtml",
+    "wikisource_title": "Reginald",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 6,
+    "title": "Reginald on Christmas Presents",
+    "href": "text/reginald-on-christmas-presents.xhtml",
+    "wikisource_title": "Reginald/Reginald on Christmas Presents",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald_on_Christmas_Presents",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 7,
+    "title": "The Saint and the Goblin",
+    "href": "text/the-saint-and-the-goblin.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/The Saint and the Goblin",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/The_Saint_and_the_Goblin",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 8,
+    "title": "Reginald on the Academy",
+    "href": "text/reginald-on-the-academy.xhtml",
+    "wikisource_title": "Reginald/Reginald on the Academy",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald_on_the_Academy",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 9,
+    "title": "Reginald’s Peace Poem",
+    "href": "text/reginalds-peace-poem.xhtml",
+    "wikisource_title": "Reginald/Reginald's Peace Poem",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald's_Peace_Poem",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 10,
+    "title": "Reginald’s Choir Treat",
+    "href": "text/reginalds-choir-treat.xhtml",
+    "wikisource_title": "Reginald/Reginald's Choir Treat",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald's_Choir_Treat",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 11,
+    "title": "Reginald at the Theatre",
+    "href": "text/reginald-at-the-theatre.xhtml",
+    "wikisource_title": "Reginald/Reginald at the Theatre",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald_at_the_Theatre",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 12,
+    "title": "Reginald on House-Parties",
+    "href": "text/reginald-on-house-parties.xhtml",
+    "wikisource_title": "Reginald/Reginald on House-Parties",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald_on_House-Parties",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 13,
+    "title": "Judkin of the Parcels",
+    "href": "text/judkin-of-the-parcels.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/Judkin of the Parcels",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/Judkin_of_the_Parcels",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 14,
+    "title": "Reginald on Worries",
+    "href": "text/reginald-on-worries.xhtml",
+    "wikisource_title": "Reginald/Reginald on Worries",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald_on_Worries",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 15,
+    "title": "Reginald at the Carlton",
+    "href": "text/reginald-at-the-carlton.xhtml",
+    "wikisource_title": "Reginald/Reginald at the Carlton",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald_at_the_Carlton",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 16,
+    "title": "Reginald on Besetting Sins",
+    "href": "text/reginald-on-besetting-sins.xhtml",
+    "wikisource_title": "Reginald/Reginald on Besetting Sins",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald_on_Besetting_Sins",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 17,
+    "title": "Reginald’s Drama",
+    "href": "text/reginalds-drama.xhtml",
+    "wikisource_title": "Reginald/Reginald's Drama",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald's_Drama",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 18,
+    "title": "Reginald on Tariffs",
+    "href": "text/reginald-on-tariffs.xhtml",
+    "wikisource_title": "Reginald/Reginald on Tariffs",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald_on_Tariffs",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 19,
+    "title": "Reginald’s Christmas Revel",
+    "href": "text/reginalds-christmas-revel.xhtml",
+    "wikisource_title": "Reginald/Reginald's Christmas Revel",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald's_Christmas_Revel",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 20,
+    "title": "Reginald’s Rubaiyat",
+    "href": "text/reginalds-rubaiyat.xhtml",
+    "wikisource_title": "Reginald/Reginald's Rubaiyat",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald's_Rubaiyat",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 21,
+    "title": "The Innocence of Reginald",
+    "href": "text/the-innocence-of-reginald.xhtml",
+    "wikisource_title": "Reginald/The Innocence of Reginald",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/The_Innocence_of_Reginald",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 22,
+    "title": "Reginald in Russia",
+    "href": "text/reginald-in-russia.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/Reginald in Russia",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/Reginald_in_Russia",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 23,
+    "title": "The Reticence of Lady Anne",
+    "href": "text/the-reticence-of-lady-anne.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/The Reticence of Lady Anne",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/The_Reticence_of_Lady_Anne",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 24,
+    "title": "A Young Turkish Catastrophe",
+    "href": "text/a-young-turkish-catastrophe.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/A Young-Turkish Catastrophe",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/A_Young-Turkish_Catastrophe",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 25,
+    "title": "The Sex That Doesn’t Shop",
+    "href": "text/the-sex-that-doesnt-shop.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/The Sex that Doesn't Shop",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/The_Sex_that_Doesn't_Shop",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 26,
+    "title": "The Lost Sanjak",
+    "href": "text/the-lost-sanjak.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/The Lost Sanjak",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/The_Lost_Sanjak",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 27,
+    "title": "The Soul of Laploshka",
+    "href": "text/the-soul-of-laploshka.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/The Soul of Laploshka",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/The_Soul_of_Laploshka",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 28,
+    "title": "Gabriel-Ernest",
+    "href": "text/gabriel-ernest.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/Gabriel-Ernest",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/Gabriel-Ernest",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 29,
+    "title": "The Strategist",
+    "href": "text/the-strategist.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/The Strategist",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/The_Strategist",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 30,
+    "title": "The Bag",
+    "href": "text/the-bag.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/The Bag",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/The_Bag",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 31,
+    "title": "Crosscurrents",
+    "href": "text/crosscurrents.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/Cross Currents",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/Cross_Currents",
+    "match_source": "author_page",
+    "match_kind": "author_prefix",
+    "confidence": "medium"
+  },
+  {
+    "index": 32,
+    "title": "The Baker’s Dozen",
+    "href": "text/the-bakers-dozen.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/The Baker's Dozen",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/The_Baker's_Dozen",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 33,
+    "title": "The Mouse",
+    "href": "text/the-mouse.xhtml",
+    "wikisource_title": "Reginald in Russia and Other Sketches/The Mouse",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald_in_Russia_and_Other_Sketches/The_Mouse",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 34,
+    "title": "The Matchmaker",
+    "href": "text/the-matchmaker.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Match-Maker",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Match-Maker",
+    "match_source": "author_page",
+    "match_kind": "author_prefix",
+    "confidence": "medium"
+  },
+  {
+    "index": 35,
+    "title": "Tobermory",
+    "href": "text/tobermory.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/Tobermory",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/Tobermory",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 36,
+    "title": "Hermann the Irascible",
+    "href": "text/hermann-the-irascible.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/Hermann the Irascible—A Story of the Great Weep",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/Hermann_the_Irascible%E2%80%94A_Story_of_the_Great_Weep",
+    "match_source": "author_page",
+    "match_kind": "author_prefix",
+    "confidence": "medium"
+  },
+  {
+    "index": 37,
+    "title": "Wratislav",
+    "href": "text/wratislav.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/Wratislav",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/Wratislav",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 38,
+    "title": "The Unrest-Cure",
+    "href": "text/the-unrest-cure.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Unrest-Cure",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Unrest-Cure",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 39,
+    "title": "Sredni Vashtar",
+    "href": "text/sredni-vashtar.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/Sredni Vashtar",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/Sredni_Vashtar",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 40,
+    "title": "The Background",
+    "href": "text/the-background.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Background",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Background",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 41,
+    "title": "The Quest",
+    "href": "text/the-quest.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Quest",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Quest",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 42,
+    "title": "Adrian",
+    "href": "text/adrian.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/Adrian",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/Adrian",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 43,
+    "title": "The Jesting of Arlington Stringham",
+    "href": "text/the-jesting-of-arlington-stringham.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Jesting of Arlington Stringham",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Jesting_of_Arlington_Stringham",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 44,
+    "title": "The Penance",
+    "href": "text/the-penance.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Penance",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Penance",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 45,
+    "title": "The Stampeding of Lady Bastable",
+    "href": "text/the-stampeding-of-lady-bastable.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Stampeding of Lady Bastable",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Stampeding_of_Lady_Bastable",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 46,
+    "title": "“Ministers of Grace”",
+    "href": "text/ministers-of-grace.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/\"Ministers of Grace\"",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/%22Ministers_of_Grace%22",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 47,
+    "title": "Filboid Studge",
+    "href": "text/filboid-studge.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/Filboid Studge, the Story of a Mouse that Helped",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/Filboid_Studge%2C_the_Story_of_a_Mouse_that_Helped",
+    "match_source": "author_page",
+    "match_kind": "author_prefix",
+    "confidence": "medium"
+  },
+  {
+    "index": 48,
+    "title": "Esmé",
+    "href": "text/esme.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/Esmé",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/Esm%C3%A9",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 49,
+    "title": "The Peace of Mowsle Barton",
+    "href": "text/the-peace-of-mowsle-barton.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Peace of Mowsle Barton",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Peace_of_Mowsle_Barton",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 50,
+    "title": "The Chaplet",
+    "href": "text/the-chaplet.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Chaplet",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Chaplet",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 51,
+    "title": "Mrs. Packletide’s Tiger",
+    "href": "text/mrs-packletides-tiger.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/Mrs. Packletide's Tiger",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/Mrs._Packletide's_Tiger",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 52,
+    "title": "The Easter Egg",
+    "href": "text/the-easter-egg.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Easter Egg",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Easter_Egg",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 53,
+    "title": "The Hounds of Fate",
+    "href": "text/the-hounds-of-fate.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Hounds of Fate",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Hounds_of_Fate",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 54,
+    "title": "A Matter of Sentiment",
+    "href": "text/a-matter-of-sentiment.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/A Matter of Sentiment",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/A_Matter_of_Sentiment",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 55,
+    "title": "The Peace Offering",
+    "href": "text/the-peace-offering.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Peace Offering",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Peace_Offering",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 56,
+    "title": "The Recessional",
+    "href": "text/the-recessional.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Recessional",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Recessional",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 57,
+    "title": "The Infernal Parliament",
+    "href": "text/the-infernal-parliament.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 58,
+    "title": "The Talking-Out of Tarrington",
+    "href": "text/the-talking-out-of-tarrington.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Talking-Out of Tarrington",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Talking-Out_of_Tarrington",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 59,
+    "title": "The Music on the Hill",
+    "href": "text/the-music-on-the-hill.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Music on the Hill",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Music_on_the_Hill",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 60,
+    "title": "The Remoulding of Groby Lington",
+    "href": "text/the-remoulding-of-groby-lington.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Remoulding of Groby Lington",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Remoulding_of_Groby_Lington",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 61,
+    "title": "The Secret Sin of Septimus Brope",
+    "href": "text/the-secret-sin-of-septimus-brope.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Secret Sin of Septimus Brope",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Secret_Sin_of_Septimus_Brope",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 62,
+    "title": "The Story of St. Vespaluus",
+    "href": "text/the-story-of-st-vespaluus.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Story of St. Vespaluus",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Story_of_St._Vespaluus",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 63,
+    "title": "The Way to the Dairy",
+    "href": "text/the-way-to-the-dairy.xhtml",
+    "wikisource_title": "The Chronicles of Clovis/The Way to the Dairy",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Chronicles_of_Clovis/The_Way_to_the_Dairy",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 64,
+    "title": "The Disappearance of Crispina Umberleigh",
+    "href": "text/the-disappearance-of-crispina-umberleigh.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Disappearance of Crispina Umberleigh",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Disappearance_of_Crispina_Umberleigh",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 65,
+    "title": "The Schartz-Metterklume Method",
+    "href": "text/the-schartz-metterklume-method.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Schartz-Metterklume Method",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Schartz-Metterklume_Method",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 66,
+    "title": "Excepting Mrs. Pentherby",
+    "href": "text/excepting-mrs-pentherby.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Excepting Mrs. Pentherby",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Excepting_Mrs._Pentherby",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 67,
+    "title": "The Seventh Pullet",
+    "href": "text/the-seventh-pullet.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Seventh Pullet",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Seventh_Pullet",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 68,
+    "title": "Mrs. Pendercoet’s Lost Identity",
+    "href": "text/mrs-pendercoets-lost-identity.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 69,
+    "title": "The Open Window",
+    "href": "text/the-open-window.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Open Window",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Open_Window",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 70,
+    "title": "The Cobweb",
+    "href": "text/the-cobweb.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Cobweb",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Cobweb",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 71,
+    "title": "The Seven Cream Jugs",
+    "href": "text/the-seven-cream-jugs.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Seven Cream Jugs",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Seven_Cream_Jugs",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 72,
+    "title": "Bertie’s Christmas Eve",
+    "href": "text/berties-christmas-eve.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Bertie's Christmas Eve",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Bertie's_Christmas_Eve",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 73,
+    "title": "Quail Seed",
+    "href": "text/quail-seed.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Quail Seed",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Quail_Seed",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 74,
+    "title": "The Interlopers",
+    "href": "text/the-interlopers.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Interlopers",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Interlopers",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 75,
+    "title": "The Optimist",
+    "href": "text/the-optimist.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 76,
+    "title": "The Treasure Ship",
+    "href": "text/the-treasure-ship.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Treasure-Ship",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Treasure-Ship",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 77,
+    "title": "The Pond",
+    "href": "text/the-pond.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 78,
+    "title": "The Blind Spot",
+    "href": "text/the-blind-spot.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Blind Spot",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Blind_Spot",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 79,
+    "title": "Dusk",
+    "href": "text/dusk.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/Dusk",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/Dusk",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 80,
+    "title": "The Unkindest Blow",
+    "href": "text/the-unkindest-blow.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Unkindest Blow",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Unkindest_Blow",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 81,
+    "title": "The Sheep",
+    "href": "text/the-sheep.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Sheep",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Sheep",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 82,
+    "title": "The Threat",
+    "href": "text/the-threat.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Threat",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Threat",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 83,
+    "title": "The Comments of Moung Ka",
+    "href": "text/the-comments-of-moung-ka.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 84,
+    "title": "The Phantom Luncheon",
+    "href": "text/the-phantom-luncheon.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Phantom Luncheon",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Phantom_Luncheon",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 85,
+    "title": "The Yarkand Manner",
+    "href": "text/the-yarkand-manner.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Yarkand Manner",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Yarkand_Manner",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 86,
+    "title": "Laura",
+    "href": "text/laura.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/Laura",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/Laura",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 87,
+    "title": "The She-Wolf",
+    "href": "text/the-she-wolf.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The She-Wolf",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_She-Wolf",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 88,
+    "title": "The Boar-Pig",
+    "href": "text/the-boar-pig.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Boar-Pig",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Boar-Pig",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 89,
+    "title": "Shock Tactics",
+    "href": "text/shock-tactics.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Shock Tactics",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Shock_Tactics",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 90,
+    "title": "The Lull",
+    "href": "text/the-lull.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Lull",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Lull",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 91,
+    "title": "The Romancers",
+    "href": "text/the-romancers.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Romancers",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Romancers",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 92,
+    "title": "The Cupboard of the Yesterdays",
+    "href": "text/the-cupboard-of-the-yesterdays.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Cupboard of the Yesterdays",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Cupboard_of_the_Yesterdays",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 93,
+    "title": "The Purple of the Balkan Kings",
+    "href": "text/the-purple-of-the-balkan-kings.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Purple of the Balkan Kings",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Purple_of_the_Balkan_Kings",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 94,
+    "title": "The Hen",
+    "href": "text/the-hen.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Hen",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Hen",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 95,
+    "title": "A Touch of Realism",
+    "href": "text/a-touch-of-realism.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/A Touch of Realism",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/A_Touch_of_Realism",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 96,
+    "title": "The Wolves of Cernogratz",
+    "href": "text/the-wolves-of-cernogratz.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Wolves of Cernogratz",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Wolves_of_Cernogratz",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 97,
+    "title": "The Dreamer",
+    "href": "text/the-dreamer.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Dreamer",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Dreamer",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 98,
+    "title": "The Quince Tree",
+    "href": "text/the-quince-tree.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Quince Tree",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Quince_Tree",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 99,
+    "title": "The Feast of Nemesis",
+    "href": "text/the-feast-of-nemesis.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Feast of Nemesis",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Feast_of_Nemesis",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 100,
+    "title": "Cousin Teresa",
+    "href": "text/cousin-teresa.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/Cousin Teresa",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/Cousin_Teresa",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 101,
+    "title": "The Byzantine Omelette",
+    "href": "text/the-byzantine-omelette.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Byzantine Omelette",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Byzantine_Omelette",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 102,
+    "title": "The Forbidden Buzzards",
+    "href": "text/the-forbidden-buzzards.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Forbidden Buzzards",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Forbidden_Buzzards",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 103,
+    "title": "The Stake",
+    "href": "text/the-stake.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Stake",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Stake",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 104,
+    "title": "Clovis on Parental Responsibilities",
+    "href": "text/clovis-on-parental-responsibilities.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/Clovis on Parental Responsibilities",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/Clovis_on_Parental_Responsibilities",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 105,
+    "title": "The Brogue",
+    "href": "text/the-brogue.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Brogue",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Brogue",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 106,
+    "title": "The Almanac",
+    "href": "text/the-almanac.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 107,
+    "title": "A Housing Problem",
+    "href": "text/a-housing-problem.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 108,
+    "title": "The Oversight",
+    "href": "text/the-oversight.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Oversight",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Oversight",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 109,
+    "title": "The Hedgehog",
+    "href": "text/the-hedgehog.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Hedgehog",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Hedgehog",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 110,
+    "title": "The Storyteller",
+    "href": "text/the-storyteller.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Story-Teller",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Story-Teller",
+    "match_source": "author_page",
+    "match_kind": "author_prefix",
+    "confidence": "medium"
+  },
+  {
+    "index": 111,
+    "title": "A Holiday Task",
+    "href": "text/a-holiday-task.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/A Holiday Task",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/A_Holiday_Task",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 112,
+    "title": "Fur",
+    "href": "text/fur.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/Fur",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/Fur",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 113,
+    "title": "The Lumber Room",
+    "href": "text/the-lumber-room.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Lumber Room",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Lumber_Room",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 114,
+    "title": "A Sacrifice to Necessity",
+    "href": "text/a-sacrifice-to-necessity.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 115,
+    "title": "The Elk",
+    "href": "text/the-elk.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Elk",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Elk",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 116,
+    "title": "A Defensive Diamond",
+    "href": "text/a-defensive-diamond.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/A Defensive Diamond",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/A_Defensive_Diamond",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 117,
+    "title": "The Stalled Ox",
+    "href": "text/the-stalled-ox.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Stalled Ox",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Stalled_Ox",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 118,
+    "title": "Canossa",
+    "href": "text/canossa.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Canossa",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Canossa",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 119,
+    "title": "The Name-Day",
+    "href": "text/the-name-day.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Name-Day",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Name-Day",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 120,
+    "title": "A Shot in the Dark",
+    "href": "text/a-shot-in-the-dark.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 121,
+    "title": "Mark",
+    "href": "text/mark.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Mark",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Mark",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 122,
+    "title": "“Down Pens”",
+    "href": "text/down-pens.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/\"Down Pens\"",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/%22Down_Pens%22",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 123,
+    "title": "The Philanthropist and the Happy Cat",
+    "href": "text/the-philanthropist-and-the-happy-cat.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/The Philanthropist and the Happy Cat",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/The_Philanthropist_and_the_Happy_Cat",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 124,
+    "title": "On Approval",
+    "href": "text/on-approval.xhtml",
+    "wikisource_title": "Beasts and Super-Beasts/On Approval",
+    "wikisource_url": "https://en.wikisource.org/wiki/Beasts_and_Super-Beasts/On_Approval",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 125,
+    "title": "Hyacinth",
+    "href": "text/hyacinth.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Hyacinth",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Hyacinth",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 126,
+    "title": "Fate",
+    "href": "text/fate.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Fate",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Fate",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 127,
+    "title": "The Romance of Business",
+    "href": "text/the-romance-of-business.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 128,
+    "title": "The Toys of Peace",
+    "href": "text/the-toys-of-peace.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Toys of Peace",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Toys_of_Peace",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 129,
+    "title": "Louis",
+    "href": "text/louis.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Louis",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Louis",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 130,
+    "title": "The Bull",
+    "href": "text/the-bull.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Bull",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Bull",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 131,
+    "title": "The Occasional Garden",
+    "href": "text/the-occasional-garden.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Occasional Garden",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Occasional_Garden",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 132,
+    "title": "The Mappined Life",
+    "href": "text/the-mappined-life.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Mappined Life",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Mappined_Life",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 133,
+    "title": "The Gala Programme",
+    "href": "text/the-gala-programme.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 134,
+    "title": "Louise",
+    "href": "text/louise.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Louise",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Louise",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 135,
+    "title": "The Guests",
+    "href": "text/the-guests.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/The Guests",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Guests",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 136,
+    "title": "The East Wing",
+    "href": "text/the-east-wing.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 137,
+    "title": "Morlvera",
+    "href": "text/morlvera.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Morlvera",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Morlvera",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 138,
+    "title": "Tea",
+    "href": "text/tea.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Tea",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Tea",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 139,
+    "title": "A Bread and Butter Miss",
+    "href": "text/a-bread-and-butter-miss.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/A Bread and Butter Miss",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/A_Bread_and_Butter_Miss",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 140,
+    "title": "Clovis on the Alleged Romance of Business",
+    "href": "text/clovis-on-the-alleged-romance-of-business.xhtml",
+    "wikisource_title": null,
+    "wikisource_url": null,
+    "match_source": "missing",
+    "match_kind": "missing",
+    "confidence": "none"
+  },
+  {
+    "index": 141,
+    "title": "Forewarned",
+    "href": "text/forewarned.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/Forewarned",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/Forewarned",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  },
+  {
+    "index": 142,
+    "title": "For the Duration of the War",
+    "href": "text/for-the-duration-of-the-war.xhtml",
+    "wikisource_title": "The Toys of Peace and Other Papers/For the Duration of the War",
+    "wikisource_url": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/For_the_Duration_of_the_War",
+    "match_source": "author_page",
+    "match_kind": "author_exact",
+    "confidence": "high"
+  }
+]
