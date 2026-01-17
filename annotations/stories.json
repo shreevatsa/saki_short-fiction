@@ -5,6 +5,16 @@
     "href": "text/the-image-of-the-lost-soul.xhtml",
     "rating_story": 4,
     "tone": "serious",
+    "setting": "country_house",
+    "ending_type": "open_ended",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [],
+    "constraint_pressure": [],
     "themes_other": [
       "allegory",
       "compassion",
@@ -13,6 +23,7 @@
     "notes": "A small bird rejected by other birds finds nightly refuge in the arms of a carved cathedral figure called the Lost Soul; a verger cages the bird, it dies on a hard winter day, and the statue falls in the night.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -35,6 +46,18 @@
     "href": "text/dogged.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "dog_as_catalyst",
       "respectability_vs_bohemia",
@@ -43,6 +66,7 @@
     "notes": "A timid, respectable man buys a fox terrier named Beelzebub at a church bazaar; the dog forces him into unsuitable rooms, new acquaintances, cafés, and escalating dissipation, until the man admits he belongs to the dog, body and soul.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -65,6 +89,20 @@
     "href": "text/the-blood-feud-of-toad-water.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "neighbour_feud",
       "rural_spite"
@@ -72,6 +110,7 @@
     "notes": "A hen scratches up a neighbour’s onion bed, triggering a long-running feud between two isolated families; they trade insults about relatives, even as their cats interbreed, and the feud survives for years.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -94,6 +133,22 @@
     "href": "text/new-wine-in-old-bottles.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "malapropisms",
       "pretentious_learning"
@@ -101,6 +156,7 @@
     "notes": "Two market women boast about cheap self-improvement and weaponise half-digested “culture” and big words to sneer at neighbours and settle grudges.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -123,6 +179,25 @@
     "href": "text/reginald.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "politics"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "garden_party",
       "wit"
@@ -130,6 +205,7 @@
     "notes": "The narrator persuades Reginald to attend a garden-party; Reginald withstands the social ordeal by deploying brilliant rudeness, culminating in a conversational explosion (“What did the Caspian Sea?”) that sends guests scattering.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -152,6 +228,25 @@
     "href": "text/reginald-on-christmas-presents.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "domesticity"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "family_guardianship"
+    ],
     "themes_other": [
       "gift_giving",
       "aunts"
@@ -159,6 +254,7 @@
     "notes": "Reginald complains about bad presents (especially a Prince of Wales prayerbook), rants about ties, trained aunts, and proposes that gifts like liqueurs, bill-paying, or jewellery are the true necessities of life.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -181,6 +277,21 @@
     "href": "text/the-saint-and-the-goblin.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 2,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "philanthropy",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "fable",
       "charity",
@@ -189,6 +300,7 @@
     "notes": "A little stone Saint pities the church mice and wants to enrich them; a cynical stone Goblin engineers a coin appearing in the Saint’s niche, but the vergeress turns it into a mock “decoration” for the Saint and the mice remain poor.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -211,6 +323,23 @@
     "href": "text/reginald-on-the-academy.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "art_world",
       "country_cousins"
@@ -218,6 +347,7 @@
     "notes": "Reginald and the Other visit the Academy as conversational armour against country cousins and awkward acquaintances; Reginald jokes about picture titles and mockingly observes how long it takes artists to be recognised.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -240,6 +370,20 @@
     "href": "text/reginalds-peace-poem.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "anti_sentimentality",
       "rhyme"
@@ -247,6 +391,7 @@
     "notes": "Reginald composes a Peace poem full of fashionable sentiment and “local colour” (widgeon, hartebeest, aasvogel), gets stuck on rhymes, and ends by preferring the war continue rather than hear the poem.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -269,6 +414,23 @@
     "href": "text/reginalds-choir-treat.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "reformation_backfires",
       "pagan_parody"
@@ -276,6 +438,7 @@
     "notes": "A vicar’s daughter tries to reform Reginald and enlists him to supervise the village choir outing; he turns it into a Bacchanalian procession through the village, complete with tin whistles and a borrowed goat, scandalising everyone.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -298,6 +461,24 @@
     "href": "text/reginald-at-the-theatre.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "theatre",
       "morality",
@@ -307,6 +488,7 @@
     "notes": "Reginald and the duchess spar at the theatre about religion, empire, and philanthropy; she offers drawing-room platitudes and he undercuts them (Embankment poverty, ravens needing food), ending with a jab that the “sacred book” is Debrett.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -329,6 +511,26 @@
     "href": "text/reginald-on-house-parties.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "house_party",
       "shooting",
@@ -337,6 +539,7 @@
     "notes": "Reginald muses that one never truly knows one’s hosts; at a shooting house-party he’s mocked for missing birds, so he rises at dawn and shoots the most conspicuous bird he can find (a peacock), has it dragged into the hall, and makes a frosty exit.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -359,6 +562,20 @@
     "href": "text/judkin-of-the-parcels.xhtml",
     "rating_story": 3,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "open_ended",
+    "darkness_level": 2,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "decline",
       "domesticity",
@@ -367,6 +584,7 @@
     "notes": "The narrator repeatedly meets Judkin trudging muddy lanes with parcels and reconstructs him as a once-dashing cavalryman now reduced to villa life, hens, incubators, and gardening; a melancholy reflection on what people settle for after the “golden stream” dries up.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -389,6 +607,27 @@
     "href": "text/reginald-on-worries.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "domesticity",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "family_guardianship"
+    ],
     "themes_other": [
       "aunts",
       "worrying",
@@ -397,6 +636,7 @@
     "notes": "Reginald describes an “aunt” who adopts fashionable sorrows (Romanian Jews, education questions, disaster funds) and prefers scheduled worries; he skewers philanthropy and social climbing, with animal asides (a canary hatching during prayers, a Persian cat’s studied unconcern).",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -419,6 +659,24 @@
     "href": "text/reginald-at-the-carlton.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "restaurant",
       "scandal",
@@ -427,6 +685,7 @@
     "notes": "Over lunch at the Carlton, Reginald and the duchess (Irene) trade observations on travel, “Tauchnitz morals,” scandals, separations, and disappointments, treating social reputation as a kind of entertainment and currency.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -449,6 +708,24 @@
     "href": "text/reginald-on-besetting-sins.xhtml",
     "rating_story": 3,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 2,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "truth_telling",
       "fable"
@@ -456,6 +733,7 @@
     "notes": "A woman acquires the habit of telling the truth (even her exact age), alienates friends, and finally tells the cook she drinks; the cook leaves, and the next day Miriam Klopstock arrives for lunch, remembering injuries.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -478,6 +756,27 @@
     "href": "text/reginalds-drama.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "theatre",
       "slumming",
@@ -486,6 +785,7 @@
     "notes": "Reginald outlines a “great drama” (with unseen wolves) based on the trivial tragedies of fashionable life: a slumming guild nearly reforms a washerwoman until liqueur chocolates derail the showcase, and a couple separates after discovering they differ on the Fiscal Question.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -508,6 +808,26 @@
     "href": "text/reginald-on-tariffs.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "mouse",
       "riding_mishap",
@@ -516,6 +836,7 @@
     "notes": "Reginald riffs on tariffs (bridge partners, seriousness) and recounts two scandals: he “tames” a nocturnal mouse with treats, accidentally creating a colony, and he rides with Mrs. Nicorax, who falls into a brook and loses much of her outfit before being paraded to the lawnful of guests.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -538,6 +859,26 @@
     "href": "text/reginalds-christmas-revel.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "christmas_house_party",
       "party_games",
@@ -546,6 +887,7 @@
     "notes": "Reginald survives a joyless Christmas at the Babwolds’: earnest book-games, Old-English revels with Chinese lanterns, recitations and thought-reading, and progressive halma. He escapes with a fake suicide note on a formidable guest’s door and a staged “shot,” causing a panicked search for bullets.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -568,6 +910,27 @@
     "href": "text/reginalds-rubaiyat.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "poetry_parody",
       "album_forgery",
@@ -576,6 +939,7 @@
     "notes": "Reginald tries (and fails) to become a poet, then is pressed to write something “Persian” in the duchess’s album; after a series of absurd quatrains and an electioneering misdelivery (leaflet to a sick woman, who dies), he forges a scandalous “Tibetan fragment” above Agatha’s prim autograph.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": false,
@@ -598,6 +962,24 @@
     "href": "text/the-innocence-of-reginald.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "memoir_rumour",
       "society_panic",
@@ -606,6 +988,7 @@
     "notes": "Reginald says he is “innocent” of having written a tell-all memoir—but everyone believes he has, and acquaintances ambush him to demand omissions (notably Miriam Klopstock, furious about a Chow-dog-in-the-bathroom incident).",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -628,6 +1011,24 @@
     "href": "text/reginald-in-russia.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "foreign_abroad",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "russian_salon",
       "political_talk",
@@ -636,6 +1037,7 @@
     "notes": "In a Russian princess’s salon, Reginald parries earnest political gloom and imperial talk with flippant quips, and declines an invitation to stay “in the country” (hundreds of versts beyond Tamboff, with agrarian disturbances).",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -658,6 +1060,18 @@
     "href": "text/the-reticence-of-lady-anne.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "twist_reveal",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "marital_silence",
       "macabre_twist",
@@ -666,6 +1080,7 @@
     "notes": "After a lunch quarrel, Egbert tries to coax his wife Lady Anne out of an icy silence over tea; only at the end is it revealed she has been dead for two hours, while their Persian cat calmly springs toward the bullfinch’s cage.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -688,6 +1103,21 @@
     "href": "text/a-young-turkish-catastrophe.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "foreign_abroad",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "career_politics"
+    ],
     "themes_other": [
       "election",
       "women_vote",
@@ -696,6 +1126,7 @@
     "notes": "A minister persuades the Grand Vizier to grant women the vote; in Lakoumistan the Young Turk candidate’s modern electioneering is undone when his rival arrives with six hundred wives and womenfolk to vote him into office.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -718,6 +1149,22 @@
     "href": "text/the-sex-that-doesnt-shop.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "shopping",
       "gender_satire",
@@ -726,6 +1173,7 @@
     "notes": "A satirical essay arguing that women don’t “shop” in any practical sense, culminating in Agatha steering the narrator away from buying ordinary blotting-paper—so he never gets it.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -748,6 +1196,21 @@
     "href": "text/the-lost-sanjak.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "domesticity",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "family_guardianship"
+    ],
     "themes_other": [
       "identity_swap",
       "bloodhound_trials",
@@ -756,6 +1219,7 @@
     "notes": "A man, rejected by the doctor’s wife, swaps clothes/identity with a dead Salvation Army captain to “pass out of her life,” but is then pursued as the murderer; public sporting zeal delays his arrest for bloodhound trials, and he is ultimately hanged after failing to prove his identity (including a catastrophic answer about Novibazar).",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -778,6 +1242,23 @@
     "href": "text/the-soul-of-laploshka.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "london_town",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 5,
+    "body_count": 2,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation",
+      "money"
+    ],
     "themes_other": [
       "ghost",
       "money",
@@ -786,6 +1267,7 @@
     "notes": "After stiffing the notoriously stingy Laploshka for two francs and then watching him die the same day, the narrator tries to dispose of the “tainted” coins; Laploshka’s ghost (or conscience) follows him until he retrieves the money from the poor and gives it (as “pour vous”) to a wealthy baron, after which Laploshka vanishes in peace.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -808,6 +1290,23 @@
     "href": "text/gabriel-ernest.xhtml",
     "rating_story": 5,
     "tone": "serious",
+    "setting": "rural_village",
+    "ending_type": "twist_reveal",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "animal",
+    "recurring_character": [],
+    "social_target": [
+      "philanthropy",
+      "domesticity",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation",
+      "family_guardianship"
+    ],
     "themes_other": [
       "werewolf",
       "foundling",
@@ -816,6 +1315,7 @@
     "notes": "Van Cheele encounters a feral boy who hints he hunts on four feet and eats “children when I can get any.” His aunt adopts the nameless stray as “Gabriel-Ernest”; an artist later reveals seeing the boy turn into a wolf, and the boy disappears along with a local child. A memorial is erected praising his supposed heroism.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": false,
@@ -838,6 +1338,21 @@
     "href": "text/the-strategist.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "party_games",
       "peach_theft",
@@ -846,6 +1361,7 @@
     "notes": "At an exclusive “young people’s” party, Rollo is outnumbered by enemies (the Wrotsleys). He survives a cruel word-guessing game, then exposes their pocketed extra peaches as a “conjuring trick,” and finally invents mythical library chocolates to lure the girls away until his carriage arrives.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -868,6 +1384,24 @@
     "href": "text/the-bag.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "professional_clergy_military",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "hunt",
       "misidentification",
@@ -876,6 +1410,7 @@
     "notes": "At Hoopington Hall, a Russian guest (Vladimir) shoots a “large beast” and is smuggled into tea with the bag hanging overhead; the hunt-obsessed Major and hostess accuse him of shooting the fox, triggering a spectacular tantrum and resignation—only for the “fox” to be buried later as a polecat.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -898,6 +1433,21 @@
     "href": "text/crosscurrents.xhtml",
     "rating_story": 3,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "animal",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "adultery",
       "wilderness",
@@ -908,6 +1458,7 @@
     "notes": "Vanessa, hungry for “respectability” and proximity to the Park, marries her rich admirer Clyde on condition she join him in the wilderness. Disgusted by travel, she runs off with Dobrinton; Kurdish brigands capture the trio, Clyde escapes back to the wild, and Dobrinton dies after a dog bite (or fright). Vanessa ends working in a West End club kitchen—at least near the Park.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -930,6 +1481,20 @@
     "href": "text/the-bakers-dozen.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "professional_clergy_military",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "dramatic_sketch",
       "superstition",
@@ -938,6 +1503,7 @@
     "notes": "A brief dramatic sketch: former lovers reunite on an eastward-bound steamer and rush to remarry, until they realize their combined children total thirteen (unlucky). Panic subsides when the Major discovers he miscounted his own—bringing the total back to twelve.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -960,6 +1526,21 @@
     "href": "text/the-mouse.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "prudery",
       "blindness_twist",
@@ -968,6 +1549,7 @@
     "notes": "On a train, the prissy Theodoric discovers a mouse inside his clothes. In a panic (and extreme modesty) he improvises a curtain and partially undresses to evict it, only to be caught by his fellow passenger—who turns out to be blind.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -990,6 +1572,24 @@
     "href": "text/the-matchmaker.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "food_reformers",
       "matchmaking",
@@ -998,6 +1598,7 @@
     "notes": "Clovis, appalled by his mother “settling down” (and trying to reform his hours), engineers a new marriage for her: he recruits a shy frontier soldier and tells his mother he’s a “woman-hater,” knowing she’ll flirt harder. The soldier’s interest in finding a colonial post for a “young friend” suggests the scheme is working.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": false,
@@ -1020,6 +1621,27 @@
     "href": "text/tobermory.xhtml",
     "rating_story": 5,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "professional_clergy_military",
+    "agency_driver": "animal",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "religion",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "talking_cat",
       "science",
@@ -1029,6 +1651,7 @@
     "notes": "A scientist demonstrates that he has taught a cat, Tobermory, to speak. At a country-house tea the cat promptly begins repeating what the guests have said about one another (and hinting he could do worse), causing panic; plans are made to poison him, but he disappears and is later found dead after fighting the Rectory’s big Tom. The scientist later dies after provoking an elephant with language lessons.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1051,6 +1674,21 @@
     "href": "text/hermann-the-irascible.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "career_politics"
+    ],
     "themes_other": [
       "suffrage",
       "compulsory_voting",
@@ -1059,6 +1697,7 @@
     "notes": "After a plague installs a German prince as king, Hermann “solves” the suffrage problem by making voting compulsory for women (and optional for men) across endless elections, with heavy fines. The resulting No-Votes-for-Women agitation culminates in the Great Weep, forcing the government to disfranchise women again—Hermann’s intended outcome.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1081,6 +1720,24 @@
     "href": "text/wratislav.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "foreign_abroad",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "marriage_market",
       "social_manipulation",
@@ -1089,6 +1746,7 @@
     "notes": "In Vienna, the Gräfin coolly pushes her disreputable son Wratislav as a match for Sophie’s unremarkable daughter Elsa. Sophie half-convinces herself Elsa could “reform” him—until Elsa runs off with a chauffeur, and Wratislav promptly leaves for Mexico (driven there by other people’s consciences).",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1111,6 +1769,25 @@
     "href": "text/the-unrest-cure.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "professional_clergy_military",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "religion",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "prank",
       "fake_bishop",
@@ -1119,6 +1796,7 @@
     "notes": "Clovis overhears J. P. Huddle lament his craving for absolute routine and decides to administer an “Unrest-cure.” He arrives at The Warren posing as a bishop’s secretary and spins a terrifying plot about the Bishop organizing a local massacre of Jews with men and Boy-Scouts; Huddle panics, summons neighbours, and barricades everyone upstairs through a sleepless vigil.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1141,6 +1819,21 @@
     "href": "text/sredni-vashtar.xhtml",
     "rating_story": 5,
     "tone": "serious",
+    "setting": "rural_village",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "animal_intrusion",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "domesticity",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "family_guardianship"
+    ],
     "themes_other": [
       "child_revenge",
       "ferret_god",
@@ -1149,6 +1842,7 @@
     "notes": "Sickly ten-year-old Conradin, dominated by his guardian Mrs. de Ropp, secretly worships a polecat-ferret as “Sredni Vashtar.” After she sells his beloved hen and then tries to seize the ferret, the animal escapes and kills her; Conradin calmly makes toast while the household panics over how to “break it” to the child.",
     "theme_children_triumph": true,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -1171,6 +1865,23 @@
     "href": "text/the-background.xhtml",
     "rating_story": 3,
     "tone": "mixed",
+    "setting": "foreign_abroad",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 2,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "art_world",
       "national_pride",
@@ -1179,6 +1890,7 @@
     "notes": "A journalist tells how Henri Deplis, after getting a masterpiece tattooed on his back (“The Fall of Icarus”), becomes trapped by art nationalism: officials treat him as a transportable art object, repeatedly block his travel, and even punish an anarchist more severely for damaging the “treasure” than for harming the man. Deplis ends up in Paris believing he is a missing arm of the Venus de Milo.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -1201,6 +1913,20 @@
     "href": "text/the-quest.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "christian_science",
       "lost_baby",
@@ -1210,6 +1936,7 @@
     "notes": "At the Villa Elsinore, the Momebys’ baby Erik vanishes; their Christian Science neighbour Rose-Marie insists it’s a matter of “faith,” goes out, and triumphantly returns with a different roadside baby. The real Erik then emerges from inside the garden roller, leaving Rose-Marie stuck with the “duplicate” until the other child’s nurse arrives to claim him; Clovis mostly worries about the asparagus sauce.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1232,6 +1959,26 @@
     "href": "text/adrian.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "foreign_abroad",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "domesticity"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "family_guardianship"
+    ],
     "themes_other": [
       "class_mobility",
       "hotel_pranks",
@@ -1241,6 +1988,7 @@
     "notes": "Lucas Croyden’s aunt Susan (an inveterate “aunt”) adopts/“improves” Adrian, a charming working-class teenager, and takes him to a Swiss resort—where he promptly stages escalating pranks (including producing a disguised child as a ‘performing pig’ and swapping all the bedroom numbers, triggering hallway chaos). Susan can’t send him “home,” and finally wires Lucas: “In Heaven’s name, where is Beth?”",
     "theme_children_triumph": true,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1263,6 +2011,22 @@
     "href": "text/the-jesting-of-arlington-stringham.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "marital_miscommunication",
       "political_wit",
@@ -1272,6 +2036,7 @@
     "notes": "MP Arlington Stringham begins making mild jokes in public and at home; his wife Eleanor grows convinced it signals a “rift,” and then that he must be copying Lady Isobel’s wit (i.e., infidelity-by-quotation). The social and political joke-making continues, but Eleanor dies by chloral overdose, and Arlington never learns what his “jesting” cost.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -1294,6 +2059,16 @@
     "href": "text/the-penance.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [],
+    "constraint_pressure": [],
     "themes_other": [
       "child_revenge",
       "pet_killed",
@@ -1303,6 +2078,7 @@
     "notes": "Octavian Ruttle kills the neighbours’ tabby cat (blamed for his missing chicks) and earns the children’s implacable hatred. After it becomes clear the cat likely wasn’t guilty, the children escalate: they kidnap his toddler Olivia, endanger her in a pigsty muck-quagmire, and force Octavian to do humiliating candle-and-sheet penance by the cat’s grave, chanting “I’m a miserable Beast” until they finally grant him “Un-Beast.”",
     "theme_children_triumph": true,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1325,6 +2101,23 @@
     "href": "text/the-stampeding-of-lady-bastable.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "politics"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "career_politics"
+    ],
     "themes_other": [
       "servant_panic",
       "fake_revolt",
@@ -1334,6 +2127,7 @@
     "notes": "Mrs. Sangrail bribes Lady Bastable into hosting Clovis for six days by forgiving a 49-shilling bridge debt. Clovis promptly screams “The jacquerie!” to the servants, making them stampede into the morning-room and driving Lady Bastable in terror out across the lawn—after which she sends the promised cheque and Clovis still gets to teach the MacGregor boys poker-patience.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1356,6 +2150,18 @@
     "href": "text/ministers-of-grace.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "london_town",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "philanthropy"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "political_satire",
       "angel_koepenick",
@@ -1365,6 +2171,7 @@
     "notes": "A peculiarly religious young duke decides politics can be improved by “koepenicking” public men with angelic understudies, turning the real ministers into animals (a cabinet minister becomes a scolding sparrow; others turn up as wildcats, lapwings, fox-terriers, etc.). The angel-ministers’ well-meaning shifts destabilize everything and culminate in a crisis that forces a naval expansion—after which a furious black swan drowns the duke, and the spell ends.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1387,6 +2194,20 @@
     "href": "text/filboid-studge.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "advertising_satire",
       "breakfast_food",
@@ -1396,6 +2217,7 @@
     "notes": "Poster-artist Mark Spayley agrees to help his would-be father-in-law sell a failing breakfast food; he rebrands it as “Filboid Studge” and advertises it with a hellish poster suggesting the damned suffer from not being able to buy it. The grim duty-driven middle class embraces the nasty food, the financier sells out at the peak, and Spayley is discarded (Leonore is now too rich), with Clovis offering the consolation that success can’t be countermanded.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1418,6 +2240,24 @@
     "href": "text/esme.xhtml",
     "rating_story": 5,
     "tone": "mixed",
+    "setting": "foreign_abroad",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "animal",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "foxhunting",
       "escaped_hyena",
@@ -1428,6 +2268,7 @@
     "notes": "The baroness tells Clovis how, during a hunt, she and Constance Broddle got lost and accidentally ended up “hunting” an escaped hyaena, which followed them like a pet; they named it Esmé. Esmé then carries off (and kills) a gipsy child; later a motorist runs the hyaena over, and the baroness manipulates him into burying it as her “dog,” then sells the Esmé diamond brooch he sends as compensation and quarrels with Constance over the proceeds.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -1450,6 +2291,18 @@
     "href": "text/the-peace-of-mowsle-barton.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "london_town",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "animal_intrusion",
+    "protagonist_type": "ensemble",
+    "agency_driver": "animal",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "witchcraft",
       "country_idyll_subverted",
@@ -1459,6 +2312,7 @@
     "notes": "Crefton Lockyer thinks he has found idyllic rural “peace” at Mowsle Barton, but discovers the household is terrorized by two feuding old women trading spells. The kettle won’t boil over any fire, and then ducks begin drowning the instant they enter a pond as the curses (“Let un sink as swims”) seem to take effect; Crefton flees back to the nerve-soothing bustle of London.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -1481,6 +2335,23 @@
     "href": "text/the-chaplet.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "music_at_mealtimes",
       "chef_jealousy",
@@ -1490,6 +2361,7 @@
     "notes": "Clovis recounts a dinner at the Grand Sybaris where diners obsessively hum and applaud a familiar tune (“The Chaplet”) while ignoring the chef’s masterpiece dish. Chef Aristide Saucourt snaps, attacks the orchestra leader, and drowns/scalds him by plunging his head into a steaming soup tureen—while applause for an encore continues at the far end of the room.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -1512,6 +2384,24 @@
     "href": "text/mrs-packletides-tiger.xhtml",
     "rating_story": 5,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "animal",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation",
+      "money"
+    ],
     "themes_other": [
       "status_competition",
       "big_game_hunt",
@@ -1521,6 +2411,7 @@
     "notes": "Mrs. Packletide stages a “safe” tiger shoot in India to outshine Loona Bimberton; she pays villagers to supply an elderly tiger and a bleating goat as bait, then fires and accidentally kills the goat while the tiger dies of shock. Her companion Miss Mebbin quietly blackmails her for the money to buy a weekend cottage (“Les Fauves”), and Mrs. Packletide gives up big-game shooting due to the “incidental expenses.”",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1543,6 +2434,16 @@
     "href": "text/the-easter-egg.xhtml",
     "rating_story": 4,
     "tone": "serious",
+    "setting": "foreign_abroad",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [],
+    "constraint_pressure": [],
     "themes_other": [
       "cowardice",
       "bomb_threat",
@@ -1552,6 +2453,7 @@
     "notes": "Lady Barbara’s son Lester is a lifelong coward. At a Central European Easter ceremony, a dark-visaged couple’s “Easter egg” gift—carried forward by a stolid child dressed as an angel—suddenly looks like an assassination bomb to Lester; in a rare spasm of courage he rushes to seize it, then collapses screaming when the child won’t let go. Lady Barbara is horribly scarred and blinded in the explosion, and thereafter friends avoid mentioning Easter eggs to her.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -1574,6 +2476,18 @@
     "href": "text/the-hounds-of-fate.xhtml",
     "rating_story": 4,
     "tone": "serious",
+    "setting": "rural_village",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "mistaken_identity",
       "fate",
@@ -1583,6 +2497,7 @@
     "notes": "Destitute Martin Stoner wanders into a farmhouse and is mistaken for “Master Tom,” a missing heir hated by the countryside; he’s fed, clothed, and offered refuge—while villagers scowl and mutter at him and his blind aunt refuses to see him. He chooses to stay in the stolen identity, but when he’s finally sent away to avoid a local man sworn to shoot Tom, the gunman meets him in a moonlit lane and kills him: the hounds of Fate have been waiting.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -1605,6 +2520,26 @@
     "href": "text/a-matter-of-sentiment.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "wager_bet",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "horse_racing",
       "disapproval",
@@ -1614,6 +2549,7 @@
     "notes": "At Lady Susan’s house-party everyone wants a Derby tip but must discuss racing furtively because Lady Susan “disapproves” of it. Clovis arranges for the butler to consult a stable-lad cousin, and the butler discreetly passes the name “Better Not”—so the entire house (and servants) telegraph bets. Then a telegram brings the result: Lady Susan herself—who disapproves of racing—has backed the outsider Sadowa purely because the name reminds her of the Franco-German war, and she’s won while everyone else groans.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1636,6 +2572,27 @@
     "href": "text/the-peace-offering.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "amateur_theatricals",
       "election_petition",
@@ -1645,6 +2602,7 @@
     "notes": "The baroness asks Clovis to help stage an entertainment to heal a county split by an election petition; they settle on a pseudo-Greek tragedy with “Sumurun” flourishes. Rehearsals breed petty rivalries, so Clovis privately coaches the dull-witted Cassandra to deliver real party-political denunciations; on the night she does so, the audience erupts and the county reunites mainly in condemning the baroness’s bad taste—leading her to sublet her lease for most of seven years.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1667,6 +2625,23 @@
     "href": "text/the-recessional.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "bad_poetry",
       "literary_parody",
@@ -1676,6 +2651,7 @@
     "notes": "In a Turkish bath, Clovis composes a mock “Durbar Recessional” to win a wager against Loona Bimberton (who had published a coronation ode). He reads out increasingly ridiculous pseudo-imperial blank verse stuffed with cobras, panthers, punkahs, and jewel-box dawns; the magazine that prints it immediately dies after that issue, and Loona suffers a nervous breakdown (though a few know the real cause is the Brahmaputra sunrise).",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1698,6 +2674,20 @@
     "href": "text/the-infernal-parliament.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "twist_reveal",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "politics"
+    ],
+    "constraint_pressure": [
+      "career_politics"
+    ],
     "themes_other": [
       "hell",
       "parliament_satire",
@@ -1707,6 +2697,7 @@
     "notes": "Bavton Bidderdale dies of a “new disease” and, while doctors dispute whether he’s really dead, finds himself a guest in Hell—complete with a newly fashionable Infernal Parliament where Members may skip debates but constituents are forced to listen. Shown a “special Hell” being prepared for a playwright (an eternity of reading press cuttings of modern British plays), Bidderdale is unimpressed until the fiend reveals the twist: the letter “S” is missing from the cuttings book, and Bidderdale finally understands he is in Hell.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -1729,6 +2720,25 @@
     "href": "text/the-talking-out-of-tarrington.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "politics"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "social_climber",
       "talking_out",
@@ -1738,6 +2748,7 @@
     "notes": "Clovis’s aunt flees from an acquaintance (Tarrington) who wants an invitation to her princess picnic, leaving Clovis to fend him off. Clovis pretends not to know Tarrington, mocks his “useful” name, invents absurdities (the Anti-Luncheon League), and finally buries him under a monologue about a childhood peach and a fake “scorpion” prank—until Tarrington retreats, and Clovis congratulates himself on a future as a Parliamentary talker-out of inconvenient bills.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1760,6 +2771,18 @@
     "href": "text/the-music-on-the-hill.xhtml",
     "rating_story": 5,
     "tone": "serious",
+    "setting": "london_town",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "pan",
       "paganism",
@@ -1769,6 +2792,7 @@
     "notes": "Sylvia Seltoun prides herself on having “settled” the aloof Mortimer in his wild Devon country place, Yessney, but the landscape feels watchful and pagan. She discovers a little bronze Pan with grapes offered at its feet, angrily snatches them, and is glimpsed/scowled at by a beautiful brown-faced boy in the woods; Mortimer warns her not to provoke the wood gods and to beware horned beasts. Later, amid strange piping and a hunted stag driven by hounds, the stag suddenly charges Sylvia as a silent human figure watches, and she dies hearing a boy’s “golden and equivocal” laughter.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -1791,6 +2815,23 @@
     "href": "text/the-remoulding-of-groby-lington.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "animal",
+    "recurring_character": [],
+    "social_target": [
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "animal_influence",
       "uncontrolled_rage",
@@ -1800,6 +2841,7 @@
     "notes": "After brooding that he’s grown parrot-like, Groby Lington loses his parrot—killed by a pet monkey brought by his brother—and gradually becomes monkeyish himself: he throws a neighbour’s throat lozenges at her in church, helps the monkey torment the stable-boy, and develops sudden violent fits. At a house-party he attacks a snoring pianist, tries to drown him in a bath, accidentally starts a fire, and then emerges credited as the heroic rescuer; when his monkey later dies, Groby’s brief spree of “remoulding” ends and he returns to being “Old Uncle Groby.”",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1822,6 +2864,24 @@
     "href": "text/the-secret-sin-of-septimus-brope.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "double_life",
       "music_hall_songs",
@@ -1831,6 +2891,7 @@
     "notes": "Clovis’s aunt is convinced the solemn editor Septimus Brope is “making love” to her maid Florinda after hearing “I love you, Florrie” through a thin wall and finding a note. Clovis discovers the secret: Brope makes his living by writing popular, saccharine girl-name songs (“Cora with the lips of coral,” etc.) and is stuck trying to rhyme “Florrie.” Clovis leverages the secret, supplies a brutal anti-Florrie refrain, and spins a cover story about “F.” to his aunt while angling for a paid trip to Ragusa.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1853,6 +2914,25 @@
     "href": "text/the-story-of-st-vespaluus.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "historical_pastiche",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "fake_conversion",
       "bees",
@@ -1862,6 +2942,7 @@
     "notes": "Clovis tells of teenage Prince Vespaluus, heir to pagan King Hkrikros, who pretends to convert to Christianity just to provoke the king into “delicious tempers.” When Hkrikros sentences him to be killed by bees, a Christian-leaning bee-keeper removes the bees’ stings; Vespaluus survives amid a honey-smeared “miracle,” and the court scrambles to venerate him as a saint. Once king, Vespaluus admits he never believed in Christianity and insists on continuing serpent worship; the realm compromises by sainting him publicly while he worships the sacred serpents in private.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": true,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1884,6 +2965,26 @@
     "href": "text/the-way-to-the-dairy.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "foreign_abroad",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "money"
+    ],
     "themes_other": [
       "gossip_biography",
       "inheritance",
@@ -1893,6 +2994,7 @@
     "notes": "The Brimley Bomefield sisters inherit a newly-rich aunt and try to protect “good money” from being left to a wastrel nephew by exposing him as a gambler. They escort the aunt to Dieppe to witness Roger’s gambling—only to teach the aunt gambling instead; she becomes a delighted, habitual casino-goer and drifts into Bohemian revels, while the sisters develop famous “headaches” and retreat home in defeat.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1915,6 +3017,26 @@
     "href": "text/the-disappearance-of-crispina-umberleigh.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 2,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "domesticity",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "family_guardianship",
+      "career_politics"
+    ],
     "themes_other": [
       "amnesia",
       "ransom_scam",
@@ -1924,6 +3046,7 @@
     "notes": "Crispina Umberleigh, a tyrannically controlling wife and mother, vanishes; the family is privately relieved, and her husband’s political standing improves. Then letters arrive from supposed captors demanding £2,000 a year to keep Crispina “boarded out” in the Lofodens; her husband pays punctually for eight years. The twist: Crispina was never kidnapped—she had amnesia and worked as a charwoman in Birmingham until a curate calling her “my good woman” triggers her memory, and her husband’s career collapses under the strain of accounting for the missing £16,000.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1946,6 +3069,23 @@
     "href": "text/the-schartz-metterklume-method.xhtml",
     "rating_story": 5,
     "tone": "funny",
+    "setting": "foreign_abroad",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "impostor_governess",
       "experiential_education",
@@ -1955,6 +3095,7 @@
     "notes": "Lady Carlotta misses her train after intervening to save a horse; stranded, she is mistaken for “Miss Hope” the expected governess and decides to play along. Her swagger (wine expertise, Russian-at-table) unnerves the Quabarls, and she launches “history by action” on the Schartz-Metterklume method by having the boys reenact the Rape of the Sabine Women with the lodge-keeper’s screaming daughters as captives. Fired, she mentions her luggage includes a leopard cub; the real Miss Hope arrives later, and Carlotta’s hostess politely reframes the whole episode as “not at all tiresome—for you.”",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -1977,6 +3118,22 @@
     "href": "text/excepting-mrs-pentherby.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "professional_clergy_military",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "money"
+    ],
     "themes_other": [
       "cooperative_house_party",
       "manufactured_conflict",
@@ -1986,6 +3143,7 @@
     "notes": "Reggie Bruttle turns his costly, hard-to-sell inherited mansion into a cooperative winter house-party where everyone is a “paying host.” A major predicts the women will inevitably feud; instead, one woman, Mrs. Pentherby, becomes universally hated. At the end, Reggie reveals the twist: he hired her as an “official quarreller” to concentrate and sterilize conflict, paying her well and letting a few men in on the joke.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2008,6 +3166,20 @@
     "href": "text/the-seventh-pullet.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "london_town",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "invented_animal_story",
       "train_compartment_bragging",
@@ -2017,6 +3189,7 @@
     "notes": "Blenkinthrope is mocked for boring train-ride anecdotes, so a friend suggests he invent something dramatic: a snake killing six pullets while the “seventh pullet” saves the day. Blenkinthrope tells the lie, becomes famous as a source of sensational stories, and is quickly branded a Munchausen as he supplies further marvels; then Nemesis strikes when his wife actually dies after completing the ominous “Death’s Head” patience, and no one believes his real tragedy.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2039,6 +3212,21 @@
     "href": "text/mrs-pendercoets-lost-identity.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "masquerade_ball",
       "stolen_identity",
@@ -2048,6 +3236,7 @@
     "notes": "Each year Mrs. Pendercoet begs friends for a “new and original” costume for the Chelsea Arts’ Club Ball. After being mocked by the teenaged Rollo (who suggests she go as the notorious “Aunt of the Gardener”), she chooses Pomona with a basket of fruit—only to find Rollo has preemptively spread the idea, and everyone greets her all night as “the Aunt of the Gardener,” a joke cemented by a newspaper sketch.",
     "theme_children_triumph": true,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2070,6 +3259,20 @@
     "href": "text/the-open-window.xhtml",
     "rating_story": 5,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette"
+    ],
     "themes_other": [
       "practical_joke",
       "nerves",
@@ -2079,6 +3282,7 @@
     "notes": "Framton Nuttel, visiting strangers as a “nerve cure,” is told by fifteen-year-old Vera Sappleton that her aunt keeps a French window open because her husband and brothers drowned in a bog and will “walk in” again. When the men actually return from shooting (via the window), Framton flees in terror; Vera instantly supplies a new lie to explain his bolt—pariah dogs on the Ganges—closing with “Romance at short notice was her speciality.”",
     "theme_children_triumph": true,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": true,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2101,6 +3305,16 @@
     "href": "text/the-cobweb.xhtml",
     "rating_story": 3,
     "tone": "serious",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [],
+    "constraint_pressure": [],
     "themes_other": [
       "old_servant",
       "omens",
@@ -2110,6 +3324,7 @@
     "notes": "Emma Ladbruk dreams of making a cosy sitting nook in the farmhouse kitchen, but the ancient servant Martha Mountjoy—part of the place itself—occupies the window-seat and outlasts everyone. One day Martha announces “death is coming,” citing omens (howling dog, screech-owl, something white), and it is not Martha but young Mr. Ladbruk who dies in a freak tree-felling accident; the farm passes to Emma’s cousin Jim, and Emma leaves, imagining Martha’s pale face still peering through the latticed panes for years to come.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -2132,6 +3347,22 @@
     "href": "text/the-seven-cream-jugs.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "mistaken_identity",
       "kleptomania",
@@ -2141,6 +3372,7 @@
     "notes": "The Pigeoncotes fear a visit from rich heir Wilfrid “the Snatcher,” a notorious kleptomaniac, right in the middle of their silver-wedding presents (including seven cream jugs). They search the guest’s portmanteau during his bath and find a cream jug—only to learn their visitor is actually Wilfrid the respectable attaché, bringing the jug as a gift. To cover their theft, they improvise a story that Mr. Peter has a family “weakness” for stealing locked-up items, prompting later guests to carry jewel-cases to the bathroom.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2163,6 +3395,22 @@
     "href": "text/berties-christmas-eve.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "domesticity",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "family_guardianship"
+    ],
     "themes_other": [
       "christmas_eve",
       "locked_in_cowhouse",
@@ -2172,6 +3420,7 @@
     "notes": "Bertie Steffink, resentful at being shipped off to Rhodesia, refuses to join a Christmas Eve expedition to hear cows talk at midnight—and instead locks the entire family and house-party inside the cowhouse. He then invites a motor-load of rowdy carolers in to drink “heaps of wet,” popping champagne and pillaging a Christmas tree for tin instruments, before finally pitching the key in through the barred window and declaring the cows’ speech business is “Russian Christmas Eve.”",
     "theme_children_triumph": true,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2194,6 +3443,20 @@
     "href": "text/quail-seed.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "shopper_spectacle",
       "suburban_grocery",
@@ -2203,6 +3466,7 @@
     "notes": "A struggling suburban grocer is advised to exploit the human instinct for excitement: with the help of an artist (and a dark-eyed model), he stages a mysterious “pomegranate and quail seed” drama—denying the purchases to an Assyrian-looking bearded stranger who seems to be hunting the boy. The neighbourhood crowds the shop for days, buying eagerly to watch the unfolding intrigue; at the climax a veiled lady tips the stranger about “Jaffa oranges,” the boy flees, and the bearded man bolts into the dusk. The grocer gratefully insists on paying for the hire of the black beard.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": false,
@@ -2225,6 +3489,16 @@
     "href": "text/the-interlopers.xhtml",
     "rating_story": 5,
     "tone": "serious",
+    "setting": "country_house",
+    "ending_type": "twist_reveal",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [],
+    "constraint_pressure": [],
     "themes_other": [
       "feud",
       "reconciliation",
@@ -2234,6 +3508,7 @@
     "notes": "Ulrich von Gradwitz and Georg Znaeym, hereditary enemies over a disputed strip of Carpathian forest, meet at night intending murder—only to be pinned helplessly together by a falling beech. In pain and exhaustion they talk their way into an earnest reconciliation and shout for rescuers; figures race toward them through the trees, but they are not foresters—only wolves.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -2256,6 +3531,20 @@
     "href": "text/the-optimist.xhtml",
     "rating_story": 4,
     "tone": "serious",
+    "setting": "rural_village",
+    "ending_type": "twist_reveal",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "philanthropy"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "misplaced_encouragement",
       "family_shame",
@@ -2265,6 +3554,7 @@
     "notes": "After hunting, Richard Duncombe is given tea by a tense, red-haired rural family who mourn their “old days” of local importance. He later meets the sulky son on the train and tries to rouse him with optimistic talk about restoring the family name—only to watch a policeman escort the boy through the station crowd toward the prison beyond the station walls.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -2287,6 +3577,23 @@
     "href": "text/the-treasure-ship.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "foreign_abroad",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "money"
+    ],
     "themes_other": [
       "blackmail",
       "scandal_list",
@@ -2296,6 +3603,7 @@
     "notes": "The Duchess of Dulverton buys a Monaco-inspired suction-dredge invention to salvage treasure from a legendary Irish wreck and puts her impecunious nephew Vasco in charge at her coastal house. Vasco instead dredges up a submerged motorboat strongbox containing scandalous papers; he presents Lulu with a list of rich names who would be ruined and calmly explains his retirement plan (Florence villa, Raeburns) funded by the hush-money. The duchess’s Monaco contact gets a snappish reply when she suggests any further marine research.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2318,6 +3626,18 @@
     "href": "text/the-pond.xhtml",
     "rating_story": 3,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "morbid_imagination",
       "marital_misunderstanding",
@@ -2327,6 +3647,7 @@
     "notes": "Mona, theatrically drawn to tragedy, grows miserable in a marriage to practical farmer John and becomes fascinated by a gloomy woodland “pond” that seems made for suicides. After John nearly dies of lung trouble and the marriage warms into real sympathy, she revisits the pond in disgust at her former morbidness—slips down the bank in genuine terror—and later admits she “slipped into a pond,” which John dismisses: the pond is only about an inch and a half deep.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -2349,6 +3670,22 @@
     "href": "text/the-blind-spot.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "blackmail_reputation",
+    "protagonist_type": "professional_clergy_military",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "religion",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "murder_mystery",
       "evidence_destroyed",
@@ -2358,6 +3695,7 @@
     "notes": "Egbert discovers a late Canon relative likely threatened by his hot-tempered cook Sebastien and brings the incriminating letter to Sir Lulworth. Lulworth calmly burns it in the grate, preventing any prosecution: Sebastien may be a murderer, but he is “a very uncommon cook.”",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": false,
@@ -2380,6 +3718,18 @@
     "href": "text/dusk.xhtml",
     "rating_story": 5,
     "tone": "mixed",
+    "setting": "london_town",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 2,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "philanthropy"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "confidence_trick",
       "soap",
@@ -2389,6 +3739,7 @@
     "notes": "At Hyde Park Corner at dusk, Norman Gortsby cynically watches the “defeated” and hears a young man’s hard-luck story about forgetting his hotel and needing a loan—made plausible, he says, by having bought his own cake of soap. When the youth can’t produce the soap, Gortsby dismisses him as a liar; then he finds a wrapped cake of soap by the bench, chases the youth down, and lends him a sovereign. The final twist: the earlier elderly man returns, searching for the soap he has lost.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2411,6 +3762,24 @@
     "href": "text/the-unkindest-blow.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "divorce_trial",
       "strike_metaphor",
@@ -2420,6 +3789,7 @@
     "notes": "After a season of strikes (even Zoo attendants), the nation eagerly anticipates the sensational Falvertoon divorce. The duke announces he and the duchess may “go on strike” by reconciling unless they get better terms from the enormous press-and-film industry feeding on their misery; a conference wrings a resumption of litigation, but the whole enterprise is undercut when the duke dies of “premature decay” a fortnight before the new trial date.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2442,6 +3812,20 @@
     "href": "text/the-sheep.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "politics"
+    ],
+    "constraint_pressure": [
+      "career_politics"
+    ],
     "themes_other": [
       "incompetent_fiance",
       "rare_bird_shot",
@@ -2452,6 +3836,7 @@
     "notes": "Rupert endures “the Sheep,” his sister Kathleen’s fatuously incompetent fiancé, who ruins bridge, shoots a rare protected honey-buzzard, and then blurts an election-killing remark at a crucial meeting. Later, at an Alpine resort, the Sheep ignores warnings about unsafe ice and falls through; Rupert races for a ladder to save him, but is knocked down and delayed by an overzealous yard-dog, and the Sheep vanishes under the ice. Kathleen eventually marries Malcolm Athling, while Rupert keeps the dog as his closest companion.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -2474,6 +3859,21 @@
     "href": "text/the-threat.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "career_politics"
+    ],
     "themes_other": [
       "suffragettes",
       "panic_legislation",
@@ -2483,6 +3883,7 @@
     "notes": "Sir Lulworth recounts how militant suffragettes tried various stunts (parrots trained to scream slogans, destroying Academy pictures) without winning votes. A new “terrific” idea—attributed to a frivolous man—forces panic legislation: the threat is to build exact replicas of the Victoria Memorial all along public highways. The prime minister rushes through an emergency Act, not to enfranchise women, but to make it a penal offence to erect commemorative statuary within three miles of a public road.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2505,6 +3906,21 @@
     "href": "text/the-comments-of-moung-ka.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "career_politics"
+    ],
     "themes_other": [
       "democracy_definition",
       "burma",
@@ -2514,6 +3930,7 @@
     "notes": "In Burma, Moung Ka reads out political news: the Indian Government reverses Bengal’s partition because most Bengalis disliked it, while the British Government proceeds to partition Britain without consulting the people because otherwise the people would say “No” and the Government would fall. When Moung Thwa asks how this squares with Britain being a democracy, Moung Ka delivers the punchline: he never said Britain *is* a democracy—only that it is “what is called a Democracy.”",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -2536,6 +3953,24 @@
     "href": "text/the-phantom-luncheon.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "identity_prank",
       "expensive_lunch",
@@ -2545,6 +3980,7 @@
     "notes": "Pressed to “return” political hospitality, Lady Drakmanton targets the lunch-hungry Smithly-Dubb sisters at her club: disguised to look unlike herself, she suggests lunch at the Carlton, orders an ambitious menu, and then insists she is not Lady Drakmanton at all but an identity-less amnesiac. With Lady Drakmanton conveniently “spotted” entering the room, she finally announces she is Ellen Niggle of the Ladies’ Brasspolishing Guild, scuttles off, and leaves the sisters to pay the ruinous bill and abandon politics in a shaken fit of doing good.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2567,6 +4003,23 @@
     "href": "text/the-yarkand-manner.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "newspaper_trek",
       "office_boy_runs_paper",
@@ -2577,6 +4030,7 @@
     "notes": "A London paper relocates its entire editorial staff to Eastern Turkestan for a stunt, but on the return journey the party is captured by brigands who demand a quarter-million ransom. The office-boy, left in charge, suppresses the ransom letter, draws salaries, hires replacements, and keeps the paper running—writing the dangerously blunt foreign-affairs leaders himself. To each captive’s wife he forges a letter claiming the husband has stayed behind to “roam” some alluring Eastern region, scattering wives across the Oxus and Gobi until a Government raid on the empty editorial suite finally uncovers the truth.",
     "theme_children_triumph": true,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": true,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2599,6 +4053,20 @@
     "href": "text/laura.xhtml",
     "rating_story": 5,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "reincarnation",
       "otter_revenge",
@@ -2609,6 +4077,7 @@
     "notes": "Laura, dying, cheerfully predicts she’ll reincarnate as an otter; she dies early, and soon an otter devastates Egbert’s prized speckled Sussex fowls and tramples flower beds, as if targeting him with intimate malice. Amanda tries to resist calling in otter hounds, but the otter is hunted and killed, with a witness remarking it had a “human” look in its eyes. In Egypt, a naked Nubian boy begins tormenting Egbert with vindictive energy, suggesting Laura has moved on to her next inconvenient incarnation—leaving Amanda seriously ill.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2631,6 +4100,24 @@
     "href": "text/the-she-wolf.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "foreign_abroad",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "fake_magic",
       "borrowed_wolf",
@@ -2641,6 +4128,7 @@
     "notes": "Leonard Bilsiter arrives at a house-party boasting of “Siberian Magic,” and the hostess whimsically asks to be turned into a she-wolf. Clovis quietly borrows a tame she-wolf (Louisa) from Lord Pabham and engineers a panic: Louisa appears in the conservatory while the hostess is hidden in a game larder being fed sugar, leaving the party convinced she has been transformed. When the hostess reappears, Clovis claims the real Siberian magic was his, and Bilsiter is left humiliated and impotently furious.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2663,6 +4151,23 @@
     "href": "text/the-boar-pig.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "gatecrashers",
       "boar_pig",
@@ -2673,6 +4178,7 @@
     "notes": "Mrs. Philidore Stossen and her daughter sneak into the county’s “garden party of the season” (to meet a princess) via a back route, to avoid the awkwardness of being uninvited. Thirteen-year-old Matilda Cuvering sees them and releases Tarquin, a huge boar-pig, into the paddock, trapping them at the gate; she then refuses to help unless they make a large donation to the Children’s Fresh Air Fund. After extracting ten shillings, Matilda casually bribes Tarquin back to his stye with rotten medlars, and the fund’s books later record only 2s. 6d.",
     "theme_children_triumph": true,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": true,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2695,6 +4201,25 @@
     "href": "text/shock-tactics.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "twist_reveal",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "domesticity",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "family_guardianship"
+    ],
     "themes_other": [
       "opened_letters",
       "spoof_letters",
@@ -2704,6 +4229,7 @@
     "notes": "Bertie Heasant can’t receive private letters because his mother opens everyone’s mail. Clovis responds with “shock tactics”: he sends Bertie fake, scented letters from a fictional Clotilde hinting at jewels, murder, and disguised suicide, sending Mrs. Heasant into frantic, public hysterics. When Clovis finally reveals the hoax, Bertie exploits the moment—threatening to summon a doctor for his mother’s behavior—until she agrees never to open his letters again.",
     "theme_children_triumph": true,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2726,6 +4252,20 @@
     "href": "text/the-lull.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "politics"
+    ],
+    "constraint_pressure": [
+      "career_politics"
+    ],
     "themes_other": [
       "election_candidate",
       "fake_flood",
@@ -2736,6 +4276,7 @@
     "notes": "Mrs. Durmot invites election candidate Latimer Springfield to rest from campaigning, but her sixteen-year-old niece Vera ensures an even stronger “lull”: she bursts into his room with a pigling and a prize gamecock, claiming a reservoir has burst and the house is an island in raging floodwater (with the second housemaid “identifying” multiple floating fiancés). The animals keep Latimer awake all night; in the morning he discovers it was only drizzle, and Vera serenely observes she at least kept his mind off politics.",
     "theme_children_triumph": true,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": true,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2758,6 +4299,20 @@
     "href": "text/the-romancers.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette"
+    ],
     "themes_other": [
       "beggar_cadger",
       "tall_tales",
@@ -2767,6 +4322,7 @@
     "notes": "A Hyde Park cadger tries to work Morton Crosby; Crosby counters with ever more elaborate Eastern tall tales and invented cultural taboos, leaving the beggar fuming.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2789,6 +4345,18 @@
     "href": "text/the-cupboard-of-the-yesterdays.xhtml",
     "rating_story": 3,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "open_ended",
+    "darkness_level": 2,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "balkan_question",
       "war_romanticism",
@@ -2798,6 +4366,7 @@
     "notes": "Two men in a café argue about war; the Wanderer mourns modern war for destroying the Balkans’ old ‘picturesque’ disorder and romance.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -2820,6 +4389,20 @@
     "href": "text/the-purple-of-the-balkan-kings.xhtml",
     "rating_story": 3,
     "tone": "serious",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 3,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "balkan_war",
       "great_powers",
@@ -2829,6 +4412,7 @@
     "notes": "A Viennese café oracle who mocked Balkan ‘kinglets’ reads war news and realises the Great Powers’ assumptions may be upended.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -2851,6 +4435,23 @@
     "href": "text/the-hen.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "politics"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "career_politics"
+    ],
     "themes_other": [
       "clovis",
       "house_guest",
@@ -2860,6 +4461,7 @@
     "notes": "Clovis needs to get an obstinate guest out before a rival arrives; he convinces her the butler thinks she’s Queen Anne and wants her dead, and scares her into fleeing.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2882,6 +4484,24 @@
     "href": "text/a-touch-of-realism.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "house_party_game",
       "role_play",
@@ -2891,6 +4511,7 @@
     "notes": "At a Christmas house-party everyone must ‘be a character’; pranks escalate from midnight sheep-hunts to abandoning guests on a snowy moor as part of the game.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -2913,6 +4534,21 @@
     "href": "text/the-wolves-of-cernogratz.xhtml",
     "rating_story": 5,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "twist_reveal",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "animal",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "folklore_fulfilled",
       "lost_aristocracy",
@@ -2922,6 +4558,7 @@
     "notes": "A dowdy governess reveals she’s the last von Cernogratz; when she dies, wolves howl and a tree falls as in the legend, while her employers explain everything away and print a hypocritical notice.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -2944,6 +4581,20 @@
     "href": "text/the-dreamer.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette"
+    ],
     "themes_other": [
       "department_store_sale",
       "petty_swindle",
@@ -2953,6 +4604,7 @@
     "notes": "During a department-store sale, a dreamy hatless teenager is mistaken for staff—and calmly sells goods and pockets the cash.",
     "theme_children_triumph": true,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": true,
     "theme_trickster": true,
     "theme_comeuppance": false,
@@ -2975,6 +4627,25 @@
     "href": "text/the-quince-tree.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "domesticity",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "family_guardianship"
+    ],
     "themes_other": [
       "vera",
       "rent_arrears",
@@ -2984,6 +4655,7 @@
     "notes": "Vera spins an elaborate stolen-jewels conspiracy to frighten her aunt away from evicting a rent-defaulter; the aunt ends up subsidising the tenant lavishly. Vera admits she invented the jewel plot.",
     "theme_children_triumph": true,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": true,
     "theme_trickster": true,
     "theme_comeuppance": false,
@@ -3006,6 +4678,24 @@
     "href": "text/the-feast-of-nemesis.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "career_politics"
+    ],
     "themes_other": [
       "clovis",
       "vindictiveness",
@@ -3015,6 +4705,7 @@
     "notes": "Clovis suggests inventing a ‘Nemesis Day’ for polite vindictiveness, offering imaginative revenge scenarios (truffles on tennis courts, wasps in a hammock, etc.).",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": false,
@@ -3037,6 +4728,23 @@
     "href": "text/cousin-teresa.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "music_hall_catchphrase",
       "mass_fad",
@@ -3046,6 +4754,7 @@
     "notes": "A frivolous music-hall couplet about ‘Cousin Teresa’ becomes a citywide craze; society and politicians treat it as profound, and Lucas—not the earnest imperial administrator—gets the honour.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -3068,6 +4777,21 @@
     "href": "text/the-byzantine-omelette.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "foreign_abroad",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "servants_strike",
       "union_power",
@@ -3077,6 +4801,7 @@
     "notes": "A rich Socialist hostess insists on union servants—until a strike threatens her dinner party for the Duke of Syria. She caves to one union, triggering a strike by another and the collapse of the whole dinner.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -3099,6 +4824,25 @@
     "href": "text/the-forbidden-buzzards.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "politics"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "clovis",
       "matchmaking",
@@ -3109,6 +4853,7 @@
     "notes": "To help a friend’s courtship, Clovis convinces the hostess that a rich guest is an egg-collector who will steal her rare buzzards’ eggs—so she ‘pickets’ him nonstop and drives him away. The buzzards fledge… and then their young are shot anyway.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3131,6 +4876,25 @@
     "href": "text/the-stake.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics",
+      "money"
+    ],
     "themes_other": [
       "gambler_son",
       "cook_as_stake",
@@ -3140,6 +4904,7 @@
     "notes": "A mother brags she’s cut off her gambling son from money—until he reveals he played baccarat for the household cook and lost, leaving a disastrous substitute luncheon.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -3162,6 +4927,22 @@
     "href": "text/clovis-on-parental-responsibilities.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "monologue_essay",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette"
+    ],
     "themes_other": [
       "clovis",
       "parent_bragging",
@@ -3171,6 +4952,7 @@
     "notes": "A proud mother extols her children; Clovis punctures her pieties with contrarian quips about ‘bringing up’ boys, cards, lobsters, and what people conveniently forget.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3193,6 +4975,24 @@
     "href": "text/the-brogue.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "politics"
+    ],
+    "constraint_pressure": [
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "clovis",
       "dangerous_horse",
@@ -3202,6 +5002,7 @@
     "notes": "The Mullets finally sell their terrifying horse—only to realise the buyer is courting their daughter and may kill himself riding it. Clovis schemes to delay the riding; the man rides anyway, gets hurt, and later gives the Brogue to the bride as a wedding present.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3224,6 +5025,26 @@
     "href": "text/the-almanac.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "vera",
       "local_almanac",
@@ -3234,6 +5055,7 @@
     "notes": "Vera writes a ‘prophetic’ local almanac using safe predictions and sells it briskly. When one forecast seems to fail, Clovis ‘fixes’ it by spinning a deadly Balkan-revolution plot that scares Jocelyn into bolting through the undergrowth—restoring the almanac’s reputation.",
     "theme_children_triumph": true,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": true,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3256,6 +5078,25 @@
     "href": "text/a-housing-problem.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "professional_clergy_military",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "religion",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "house_party_shuffling",
       "ambitious_mother",
@@ -3266,6 +5107,7 @@
     "notes": "Two hostesses keep shunting a rich, tactless young man between house-parties to avoid losing a marchioness (and later a colonial bishop) while still wanting him as a prospective son-in-law. He ends up marrying the marchioness instead.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -3288,6 +5130,24 @@
     "href": "text/the-oversight.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "politics"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "guest_list_engineering",
       "postcard_poll",
@@ -3297,6 +5157,7 @@
     "notes": "A hostess tries to design a frictionless house-party by vetting guests’ opinions via a sneaky vivisection postcard poll—only for the two carefully selected men to come to blows over being Pro-Greek vs Pro-Bulgar.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -3319,6 +5180,24 @@
     "href": "text/the-hedgehog.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "ghost_hunting",
       "stuffed_hedgehog",
@@ -3329,6 +5208,7 @@
     "notes": "To appease a landlord’s wife who hunts for ghosts, the Norburys stage ‘haunted’ conditions; she instead reports a terrifying white hedgehog apparition. Hugo admits it was their stuffed-hedgehog prank—saving the lease but losing the friendship.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3351,6 +5231,22 @@
     "href": "text/the-storyteller.xhtml",
     "rating_story": 5,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "domesticity",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "family_guardianship"
+    ],
     "themes_other": [
       "train_compartment",
       "improper_story",
@@ -3361,6 +5257,7 @@
     "notes": "In a stifling train compartment, a bachelor quiets three children by telling a ‘good’ girl story with a vicious twist: Bertha’s medals clink, giving her away to a wolf that eats her—while the pigs escape.",
     "theme_children_triumph": true,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3383,6 +5280,23 @@
     "href": "text/a-holiday-task.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "money"
+    ],
     "themes_other": [
       "amnesia_ruse",
       "stolen_luggage",
@@ -3393,6 +5307,7 @@
     "notes": "A woman claims amnesia and a hazy title, commandeers a stranger’s luggage, runs up expenses, and borrows money from Kenelm Jerton—then slips away. Jerton learns she’s a well-known (married) golfer who ‘loses her memory’ in awkwardly profitable ways, and he ends up hiding when the real luggage-owner arrives.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3415,6 +5330,22 @@
     "href": "text/fur.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "gift_manipulation",
       "birthday_presents",
@@ -3425,6 +5356,7 @@
     "notes": "Suzanne tries to manoeuvre her rich cousin into buying her furs; her friend Eleanor reroutes him into buying Suzanne a fan—and buys Eleanor the coveted silver-fox instead, souring the friendship.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3447,6 +5379,22 @@
     "href": "text/the-lumber-room.xhtml",
     "rating_story": 5,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "domesticity",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "family_guardianship"
+    ],
     "themes_other": [
       "nicholas",
       "forbidden_room",
@@ -3457,6 +5405,7 @@
     "notes": "Punished Nicholas finds the key to the forbidden lumber-room and luxuriates in its treasures while his aunt guards the gooseberry garden—only to fall into the rainwater tank. Nicholas refuses to ‘disobey’ by rescuing her, and catches her in a strawberry-jam lie.",
     "theme_children_triumph": true,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": true,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3479,6 +5428,24 @@
     "href": "text/a-sacrifice-to-necessity.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "baccarat_debt",
       "flapper_logic",
@@ -3489,6 +5456,7 @@
     "notes": "A flapper runs up a four-figure baccarat debt; her mother melodramatically assumes the girl must marry to pay it—until the twist: the creditor wants the mother, and the daughter coolly brokers the match. The key wedding ‘present’ is a cancelled IOU.",
     "theme_children_triumph": true,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3511,6 +5479,26 @@
     "href": "text/the-elk.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 1,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "animal",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "domesticity",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "family_guardianship",
+      "career_politics"
+    ],
     "themes_other": [
       "tyrant_grandmother",
       "matchmaking_mothers",
@@ -3521,6 +5509,7 @@
     "notes": "A domineering rich grandmother controls her grandson’s marriage prospects while an elk repeatedly ‘provides’ dramatic rescues. Her pet plan (a combative German governess as future mistress) is finally thwarted when the elk kills the governess; after the grandmother’s death, the intended couple marry.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -3543,6 +5532,21 @@
     "href": "text/a-defensive-diamond.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "club_bore",
       "tall_tales",
@@ -3553,6 +5557,7 @@
     "notes": "Cornered by a club bore, Treddleford saves himself by firing off increasingly extravagant anecdotes until the bore retreats—earning Treddleford the title of ‘the club Liar.’",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": false,
@@ -3575,6 +5580,22 @@
     "href": "text/the-stalled-ox.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "ox_intrusion",
       "artist_success",
@@ -3585,6 +5606,7 @@
     "notes": "A cattle painter is asked to remove an ox from a neighbour’s garden; the ox wanders into her morning-room instead. The painter calmly sets up to paint it, and the resulting picture becomes his breakthrough success.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -3607,6 +5629,21 @@
     "href": "text/canossa.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "career_politics"
+    ],
     "themes_other": [
       "by_election",
       "political_unrest",
@@ -3617,6 +5654,7 @@
     "notes": "A government needs a convicted agitator freed before a by-election; he refuses to leave prison without a brass band. Ministers improvise as strikebreaking musicians—only to lose the seat anyway when unions take offence.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -3639,6 +5677,18 @@
     "href": "text/the-name-day.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "foreign_abroad",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "snowbound_train",
       "name_day",
@@ -3649,6 +5699,7 @@
     "notes": "Snow strands an English clerk’s Austrian train; he panics about wolves while his fellow-passenger stays serenely confident it’s her name-day. She sells him food at extortionate ‘accident prices,’ and the ‘wolves’ turn out to be her cousin’s dogs as a relief engine arrives.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3671,6 +5722,25 @@
     "href": "text/a-shot-in-the-dark.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation",
+      "career_politics",
+      "money"
+    ],
     "themes_other": [
       "political_candidate",
       "train_compartment",
@@ -3681,6 +5751,7 @@
     "notes": "An ambitious political guest refuses to lend money to a young man claiming to be his hostess’s son, congratulating himself on a clever trap (‘she’s blonde’). The sting is that the hostess has only recently dyed her hair—so the ‘con man’ may have been genuine, and Sletherby has likely sabotaged his own prospects.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -3703,6 +5774,18 @@
     "href": "text/mark.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "novelist_at_work",
       "door_to_door_salesman",
@@ -3713,6 +5796,7 @@
     "notes": "A relentless book-agent pitches an ‘indispensable’ reference book at novelist Mark Mellowkent. Mark turns the tables by hard-selling his own novels with excerpts until the agent retreats in disgust.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3735,6 +5819,20 @@
     "href": "text/down-pens.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette"
+    ],
     "themes_other": [
       "thank_you_letters",
       "christmas_correspondence",
@@ -3744,6 +5842,7 @@
     "notes": "A couple, written-out from Christmas thank-you letters, fantasise an ‘epistolary Truce of God’ and a ticket/counterfoil system to make gift-acknowledgements mechanical and honest.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -3766,6 +5865,23 @@
     "href": "text/the-philanthropist-and-the-happy-cat.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "london_town",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 2,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "philanthropy",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "teashop_scene",
       "theatre_ticket_charity",
@@ -3776,6 +5892,7 @@
     "notes": "A wealthy woman decides to do spontaneous charity by gifting theatre tickets to ‘interesting’ work girls or clerks, but cannot even catch the chosen clerk’s eye—he’s absorbed in a lurid mutiny novel. She returns home oddly empty while her cat purrs, having had his sparrow.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -3798,6 +5915,22 @@
     "href": "text/on-approval.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "london_town",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 2,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation",
+      "money"
+    ],
     "themes_other": [
       "bohemia_soho",
       "aspiring_genius",
@@ -3808,6 +5941,7 @@
     "notes": "Soho Bohemians obsess over whether the Pomeranian ex-gooseherd artist Knopfschrank is a genius; he slowly starves. When money arrives it’s not from art but from an American paying damages for mowing down the family pigs, and Knopfschrank goes home for good—after the Bohemians buy a few sketches too late.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -3830,6 +5964,21 @@
     "href": "text/hyacinth.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 2,
+    "body_count": 0,
+    "central_mechanism": "animal_intrusion",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "career_politics"
+    ],
     "themes_other": [
       "election_day",
       "child_hostage",
@@ -3840,6 +5989,7 @@
     "notes": "Hyacinth, a violently patriotic child, locks his rival candidate’s children in a pig stye and threatens to loose a huge sow on them if his side loses. To save them, the rival candidate’s agent challenges his own votes until he no longer has a winning majority.",
     "theme_children_triumph": true,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3862,6 +6012,23 @@
     "href": "text/fate.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "reckless_wager",
       "billiards",
@@ -3872,6 +6039,7 @@
     "notes": "A penniless young gambler stakes everything on a ‘sure’ billiards bet and watches it collapse. He then knocks over a lamp in an older woman’s room to create a crisis, rushes her (smouldering) into the billiard-room as the heroic rescuer, and the match is abandoned.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": false,
@@ -3894,6 +6062,23 @@
     "href": "text/the-romance-of-business.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "margaret_sangrail",
       "fur_fashion",
@@ -3904,6 +6089,7 @@
     "notes": "Margaret Sangrail invents a fake fur authority and a fictitious ‘soda-mink’ fashion to panic her boastful, stingy cousin into selling a beaver stole to her at full price—after Margaret has used an on-approval prop to create the scam.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3926,6 +6112,21 @@
     "href": "text/the-toys-of-peace.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "career_politics"
+    ],
     "themes_other": [
       "peace_toys",
       "war_play",
@@ -3936,6 +6137,7 @@
     "notes": "A peace-minded aunt and uncle try to redirect two boys with ‘peace toys’ (dustbins, civic figures, YWCA, etc.). The boys immediately repurpose them into a blood-soaked (ink-soaked) Louis XIV invasion-and-massacre fantasy.",
     "theme_children_triumph": true,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": true,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3958,6 +6160,18 @@
     "href": "text/louis.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "pet_idolatry",
       "stuffed_dog",
@@ -3968,6 +6182,7 @@
     "notes": "A wife uses her ‘beloved’ Pomeranian Louis to veto travel and control plans; her husband plots to gas the dog—only to discover Louis is a stuffed toy. He then announces Louis is ‘dead’ anyway, forcing her to drop the pose and the Vienna veto.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -3990,6 +6205,20 @@
     "href": "text/the-bull.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "rural_village",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "artist_vs_farmer",
       "bull_attack",
@@ -4000,6 +6229,7 @@
     "notes": "A farmer resents his animal-painter half-brother’s success and boasts until the farmer snaps; the prized bull ‘settles’ the argument by tossing and injuring the artist. The artist recovers—and thereafter paints only harmless animals, not bulls.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -4022,6 +6252,21 @@
     "href": "text/the-occasional-garden.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "garden_oneupmanship",
       "staged_scenery",
@@ -4032,6 +6277,7 @@
     "notes": "Elinor rents a ‘perfect’ garden backdrop to upstage a bragging neighbour at lunch, then later blames suffragettes when the rented oasis vanishes.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -4054,6 +6300,21 @@
     "href": "text/the-mappined-life.xhtml",
     "rating_story": 3,
     "tone": "serious",
+    "setting": "country_house",
+    "ending_type": "open_ended",
+    "darkness_level": 3,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "zoo_metaphor",
       "lack_of_initiative",
@@ -4064,6 +6325,7 @@
     "notes": "Aunt and niece discuss zoo ‘Mappin terraces’ and conclude their own lives are similarly caged by convention, income, and lack of initiative.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -4086,6 +6348,18 @@
     "href": "text/the-gala-programme.xhtml",
     "rating_story": 3,
     "tone": "mixed",
+    "setting": "historical_pastiche",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "animal_intrusion",
+    "protagonist_type": "trickster",
+    "agency_driver": "animal",
+    "recurring_character": [],
+    "social_target": [
+      "respectability"
+    ],
+    "constraint_pressure": [],
     "themes_other": [
       "roman_pastiche",
       "suffragette_parody",
@@ -4096,6 +6370,7 @@
     "notes": "Suffragette-style protesters disrupt the Emperor’s birthday chariot race, so he flips the programme and releases the menagerie into the arena.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -4118,6 +6393,23 @@
     "href": "text/louise.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "twist_reveal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis",
+      "reginald"
+    ],
+    "social_target": [
+      "snobbery"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "absentmindedness",
       "lost_and_found_farce",
@@ -4128,6 +6420,7 @@
     "notes": "An absentminded aunt convinces herself she has ‘mislaid’ her niece Louise around London—only for the footman to reveal Louise has been upstairs at home all along.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -4150,6 +6443,22 @@
     "href": "text/the-guests.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "colonial_outpost",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 2,
+    "body_count": 0,
+    "central_mechanism": "animal_intrusion",
+    "protagonist_type": "professional_clergy_military",
+    "agency_driver": "animal",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "religion"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "colonial_household",
       "flood_disaster",
@@ -4160,6 +6469,7 @@
     "notes": "In an outpost household, Matilda endures an unwanted bishop cousin, a flood that drives goats/babies/hens into the house, and a leopard calmly eating a goat in the bishop’s bedroom.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": true,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -4182,6 +6492,23 @@
     "href": "text/the-east-wing.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "twist_reveal",
+    "darkness_level": 5,
+    "body_count": 2,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "country_house_fire",
       "imaginary_child_portrait",
@@ -4192,6 +6519,7 @@
     "notes": "At a country-house fire, the hostess insists men must rescue her ‘daughter’ Eva; two men die attempting it—only for her to remember Eva is merely a portrait sent away to be cleaned.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -4214,6 +6542,22 @@
     "href": "text/morlvera.xhtml",
     "rating_story": 4,
     "tone": "mixed",
+    "setting": "country_house",
+    "ending_type": "dark_punchline",
+    "darkness_level": 4,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "child",
+    "agency_driver": "child",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "toyshop_class_contrast",
       "gift_obligation",
@@ -4224,6 +6568,7 @@
     "notes": "Two poor children invent a lurid backstory for a ‘wicked’ doll; a rich boy buys it as a forced gift—and then quietly drops it under the car wheel and crushes it.",
     "theme_children_triumph": true,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": true,
     "theme_trickster": true,
     "theme_comeuppance": true,
@@ -4246,6 +6591,22 @@
     "href": "text/tea.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "society_adult",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "etiquette",
+      "reputation"
+    ],
     "themes_other": [
       "marriage_pressure",
       "anti_tea_rant",
@@ -4256,6 +6617,7 @@
     "notes": "To avoid arriving at a proposal during afternoon tea, Cushat-Prinkly kills time with hat-maker Rhoda—and ends up impulsively proposing to her; later she becomes the very tea-tinkler he dreaded.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -4278,6 +6640,22 @@
     "href": "text/a-bread-and-butter-miss.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "ironic_reversal",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "ensemble",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "politics"
+    ],
+    "constraint_pressure": [
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "prophetic_dream_misread",
       "horse_racing_bet",
@@ -4288,6 +6666,7 @@
     "notes": "A woman’s recurring ‘prophetic’ dream about “Bread and Butter” is taken literally as a horse name; the missing detail (it was a brown horse) would have pointed to Whitebait, and everyone loses.",
     "theme_children_triumph": false,
     "theme_animals": true,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": true,
@@ -4310,6 +6689,23 @@
     "href": "text/clovis-on-the-alleged-romance-of-business.xhtml",
     "rating_story": 3,
     "tone": "funny",
+    "setting": "london_town",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "monologue_essay",
+    "protagonist_type": "trickster",
+    "agency_driver": "trickster",
+    "recurring_character": [
+      "clovis"
+    ],
+    "social_target": [
+      "snobbery",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "anti_work_epigram",
       "imperial_trade_imagery",
@@ -4319,6 +6715,7 @@
     "notes": "Clovis argues that the ‘romance of business’ lies in the exotic groceries, not the grocer, and that dutiful business lives end up as unromantic rows of graves.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": false,
@@ -4341,6 +6738,22 @@
     "href": "text/forewarned.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "country_house",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "misunderstanding",
+    "protagonist_type": "outsider_naif",
+    "agency_driver": "chance",
+    "recurring_character": [],
+    "social_target": [
+      "politics",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation",
+      "career_politics"
+    ],
     "themes_other": [
       "naive_novel_reader",
       "partisan_press",
@@ -4351,6 +6764,7 @@
     "notes": "A sheltered woman, trained on respectable novels, visits politically active cousins and takes partisan newspaper denunciations as literal proof of monstrous villainy—until she discovers both candidates are ‘monsters’ on paper.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": false,
     "theme_comeuppance": false,
@@ -4373,6 +6787,22 @@
     "href": "text/for-the-duration-of-the-war.xhtml",
     "rating_story": 4,
     "tone": "funny",
+    "setting": "rural_village",
+    "ending_type": "comic_deflation",
+    "darkness_level": 1,
+    "body_count": 0,
+    "central_mechanism": "hoax",
+    "protagonist_type": "professional_clergy_military",
+    "agency_driver": "trickster",
+    "recurring_character": [],
+    "social_target": [
+      "snobbery",
+      "religion",
+      "respectability"
+    ],
+    "constraint_pressure": [
+      "reputation"
+    ],
     "themes_other": [
       "literary_fraud",
       "wartime_secrecy",
@@ -4383,6 +6813,7 @@
     "notes": "A bored rural rector commits a ‘great literary fraud’ by publishing invented Persian verse (credited to a nephew in Mesopotamia); war secrecy shields him—for now—and eclipses his wife’s slow translation project.",
     "theme_children_triumph": false,
     "theme_animals": false,
+    "theme_animals_triumph": false,
     "theme_child_lies": false,
     "theme_trickster": true,
     "theme_comeuppance": false,
