@@ -125,7 +125,7 @@
 		<dc:source>https://www.google.com/books/edition/The_Odd_Volume/g5YXAQAAIAAJ</dc:source>
 		<meta property="se:production-notes">Where known, the date of writing is used when it differs from the date of publication. For example, "The Image of the Lost Soul," while not published until 1919 in Toys of Peace, has an endnote in that book indicating that it was written in 1891, while three other stories appearing for the first time in that book are known to have been written before his last story filed from the front of WWI. Similarly, it's known that the five stories Munro wrote specifically for The Chronicles of Clovis were finished by the end of August 1911, when the book went to the printer.
 		Munro used both his initials/name, H. H. Munro or H. H. M., and his pseudonym, Saki, in newspapers and magazines, and all of his short story collections also listed both H. H. Munro and “Saki” as author. Therefore, both have been added to the metadata.</meta>
-		<meta property="se:word-count">229707</meta>
+		<meta property="se:word-count">225993</meta>
 		<meta property="se:reading-ease.flesch">58.92</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/saki_short-fiction</meta>
 		<dc:creator id="author">Saki</dc:creator>
