@@ -117,17 +117,17 @@ At this moment there was a magnetic stampede of members towards the lobby, where
 
 "Coup d'état in the North. Thistlebery seizes Edinburgh Castle. Threatens civil war unless Government expands naval programme."
 
-{In the babel which ensued Belturbet lost sight of his young friend. For the best part of the afternoon he searched one likely haunt after another, spurred on by the sensational posters which the evening papers were displaying broadcast over the West End.
+In the babel which ensued Belturbet lost sight of his young friend. For the best part of the afternoon he searched one likely haunt after another, spurred on by the sensational posters which the evening papers were displaying broadcast over the West End.{
 
-"General Baden-Baden mobilizes Boy-Scouts. Another coup d'état feared. Is Windsor Castle safe?"
+}{ }"General Baden-Baden {mobilizes}{mobilises} Boy-Scouts. Another coup d'état feared. Is Windsor Castle safe?"{
 
-This was one of the earlier posters, and was followed by one of even more sinister purport:
+}{ }This was one of the earlier posters, and was followed by one of even more sinister purport:{
 
-"Will the Test-match have to be postponed?"
+}{ }"Will the Test-match have to be postponed?"{
 
-It was this disquietening question which brought home the real seriousness of the situation to the London public, and made people wonder whether one might not pay too high a price for the advantages of party government. Belturbet, questing round in the hope of finding the originator of the trouble, with a vague idea of being able to induce him to restore matters to their normal human footing, came across an elderly club acquaintance who dabbled extensively in some of the more sensitive market securities. He was pale with indignation, and his pallor deepened as a breathless newsboy dashed past with a poster inscribed:
+}{ }It was this disquietening question which brought home the real seriousness of the situation to the London public, and made people wonder whether one might not pay too high a price for the advantages of party government. Belturbet, questing round in the hope of finding the originator of the trouble, with a vague idea of being able to induce him to restore matters to their normal human footing, came across an elderly club acquaintance who dabbled extensively in some of the more sensitive market securities. He was pale with indignation, and his pallor deepened as a breathless newsboy dashed past with a poster inscribed:{
 
-"Premier's constituency harried by moss-troopers. Halfour sends encouraging telegram to rioters. Letchworth Garden City threatens reprisals. Foreigners taking refuge in Embassies and National Liberal Club."}{In the babel which ensued Belturbet lost sight of his young friend. For the best part of the afternoon he searched one likely haunt after another, spurred on by the sensational posters which the evening papers were displaying broadcast over the West End. "General Baden-Baden mobilises Boy-Scouts. Another coup d'état feared. Is Windsor Castle safe?" This was one of the earlier posters, and was followed by one of even more sinister purport: "Will the Test-match have to be postponed?" It was this disquietening question which brought home the real seriousness of the situation to the London public, and made people wonder whether one might not pay too high a price for the advantages of party government. Belturbet, questing round in the hope of finding the originator of the trouble, with a vague idea of being able to induce him to restore matters to their normal human footing, came across an elderly club acquaintance who dabbled extensively in some of the more sensitive market securities. He was pale with indignation, and his pallor deepened as a breathless newsboy dashed past with a poster inscribed: "Premier's constituency harried by moss-troopers. Halfour sends encouraging telegram to rioters. Letchworth Garden City threatens reprisals. Foreigners taking refuge in Embassies and National Liberal Club."}
+}{ }"Premier's constituency harried by moss-troopers. Halfour sends encouraging telegram to rioters. Letchworth Garden City threatens reprisals. Foreigners taking refuge in Embassies and National Liberal Club."
 
 "This is devils' work!" he said angrily.
 
@@ -135,9 +135,9 @@ Belturbet knew otherwise.
 
 At the bottom of St. James's Street a newspaper motor-cart, which had just come rapidly along Pall Mall, was surrounded by a knot of eagerly talking people, and for the first time that afternoon Belturbet heard expressions of relief and congratulation.
 
-{It displayed a placard with the welcome announcement:
+It displayed a placard with the welcome announcement:{
 
-"Crisis ended. Government gives way. Important expansion of naval programme."}{It displayed a placard with the welcome announcement: "Crisis ended. Government gives way. Important expansion of naval programme."}
+}{ }"Crisis ended. Government gives way. Important expansion of naval programme."
 
 There seemed to be no immediate necessity for pursuing the quest of the errant {duke}{Duke}, and Belturbet turned to make his way homeward through St. James's Park. His mind, attuned to the alarums and excursions of the afternoon, became dimly aware that some excitement of a detached nature was going on around him. In spite of the political ferment which reigned in the streets, quite a large crowd had gathered to watch the unfolding of a tragedy that had taken place on the shore of the ornamental water. A large black swan, which had recently shown signs of a savage and dangerous disposition, had suddenly attacked a young gentleman who was walking by the water's edge, dragged him down under the surface, and drowned him before anyone could come to his assistance. At the moment when Belturbet arrived on the spot several park-keepers were engaged in lifting the corpse into a punt. Belturbet stooped to pick up a hat that lay near the scene of the struggle. It was a smart soft felt hat, faintly reminiscent of Houbigant.
 

@@ -12,17 +12,13 @@
 
 "Business is not my strong point at any time," said Sir Lulworth, "and certainly not when we're on the immediate threshold of lunch."
 
-{"It isn't exactly business," explained Egbert, as he followed his uncle into the dining-room. "It's something rather serious. Very serious."
+"It isn't exactly business," explained Egbert, as he followed his uncle into the dining-room.{ }{
 
-"Then we can't possibly speak about it now," said Sir Lulworth; "no one could talk seriously during a borscht. A beautifully constructed borscht, such as you are going to experience presently, ought not only to banish conversation but almost to annihilate thought. Later on, when we arrive at the second stage of olives, I shall be quite ready to discuss that new book on Borrow, or, if you prefer it, the present situation in the Grand Duchy of Luxembourg. But I absolutely decline to talk anything approaching business till we have finished with the bird."
+}"It's something rather serious. Very serious."
 
-For the greater part of the meal Egbert sat in an abstracted silence, the silence of a man whose mind is focused on one topic. When the coffee stage had been reached he launched himself suddenly athwart his uncle's reminiscences of the Court of Luxembourg.}{"It isn't exactly business," explained Egbert, as he followed his uncle into the dining-room.
+"Then we can't possibly speak about it now," said Sir Lulworth; "no one could talk seriously during a {borscht}{borshch}. A beautifully constructed {borscht}{borshch}, such as you are going to experience presently, ought not only to banish conversation but almost to annihilate thought. Later on, when we arrive at the second stage of olives, I shall be quite ready to discuss that new book on Borrow, or, if you prefer it, the present situation in the Grand Duchy of {Luxembourg}{Luxemburg}. But I absolutely decline to talk anything approaching business till we have finished with the bird."
 
-"It's something rather serious. Very serious."
-
-"Then we can't possibly speak about it now," said Sir Lulworth; "no one could talk seriously during a borshch. A beautifully constructed borshch, such as you are going to experience presently, ought not only to banish conversation but almost to annihilate thought. Later on, when we arrive at the second stage of olives, I shall be quite ready to discuss that new book on Borrow, or, if you prefer it, the present situation in the Grand Duchy of Luxemburg. But I absolutely decline to talk anything approaching business till we have finished with the bird."
-
-For the greater part of the meal Egbert sat in an abstracted silence, the silence of a man whose mind is focussed on one topic. When the coffee stage had been reached he launched himself suddenly athwart his uncle's reminiscences of the Court of Luxemburg.}
+For the greater part of the meal Egbert sat in an abstracted silence, the silence of a man whose mind is {focused}{focussed} on one topic. When the coffee stage had been reached he launched himself suddenly athwart his uncle's reminiscences of the Court of {Luxembourg}{Luxemburg}.
 
 "I think I told you that great-aunt Adelaide had made me her executor. There wasn't very much to be done in the way of legal matters, but I had to go through her papers."
 

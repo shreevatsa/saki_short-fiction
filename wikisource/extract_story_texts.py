@@ -5,6 +5,8 @@ import html as html_lib
 import json
 import re
 import sys
+import hashlib
+import urllib.error
 import urllib.request
 import time
 from html.parser import HTMLParser
@@ -140,12 +142,36 @@ def title_key(text):
     return text
 
 
-def strip_wikisource_title(text, title):
+def is_titleish(text):
+    text = text.strip()
+    if not text or len(text) > 80:
+        return False
+    if re.search(r"[.!?]", text):
+        return False
+    words = re.findall(r"[A-Za-z0-9]+", text)
+    return len(words) <= 12
+
+
+def strip_wikisource_title(text, title, wikisource_title=None):
     parts = [p for p in re.split(r"\n{2,}", text) if p.strip()]
     if not parts:
         return text
-    if title_key(parts[0]) == title_key(title):
+    candidates = [title]
+    if wikisource_title:
+        candidates.append(wikisource_title.split("/")[-1])
+    cand_keys = {title_key(c) for c in candidates if c}
+
+    first = parts[0]
+    second = parts[1] if len(parts) > 1 else ""
+    combined = (first + " " + second).strip()
+
+    if cand_keys and title_key(combined) in cand_keys:
+        parts = parts[2:]
+    elif cand_keys and title_key(first) in cand_keys:
         parts = parts[1:]
+    elif len(parts) > 1 and cand_keys and title_key(second) in cand_keys and is_titleish(first):
+        parts = parts[2:]
+
     return "\n\n".join(parts)
 
 
@@ -214,16 +240,28 @@ def extract_repo_text(xhtml_path):
     return "\n\n".join(paragraphs)
 
 
-def fetch_wikisource_html(url, max_retries=5, base_delay=1.0):
+def cache_path_for(url):
+    cache_dir = Path("wikisource/http_cache")
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    key = hashlib.sha1(url.encode("utf-8")).hexdigest()
+    return cache_dir / f"{key}.html"
+
+
+def fetch_wikisource_html(url, refresh=False, max_retries=5, base_delay=1.0):
     if "?" in url:
         fetch_url = f"{url}&action=render"
     else:
         fetch_url = f"{url}?action=render"
+    cache_path = cache_path_for(fetch_url)
+    if cache_path.exists() and not refresh:
+        return cache_path.read_text(encoding="utf-8", errors="replace")
     req = urllib.request.Request(fetch_url, headers={"User-Agent": "Mozilla/5.0"})
     for attempt in range(max_retries + 1):
         try:
             with urllib.request.urlopen(req, timeout=30) as resp:
-                return resp.read().decode("utf-8", errors="replace")
+                html = resp.read().decode("utf-8", errors="replace")
+            cache_path.write_text(html, encoding="utf-8")
+            return html
         except urllib.error.HTTPError as e:
             if e.code != 429 or attempt >= max_retries:
                 raise
@@ -231,8 +269,8 @@ def fetch_wikisource_html(url, max_retries=5, base_delay=1.0):
             time.sleep(delay)
 
 
-def extract_wikisource_text(url):
-    html = fetch_wikisource_html(url)
+def extract_wikisource_text(url, refresh=False):
+    html = fetch_wikisource_html(url, refresh=refresh)
     parser = WikiParagraphExtractor()
     parser.feed(html)
     return "\n\n".join(parser.paragraphs)
@@ -249,10 +287,16 @@ def load_entry(title):
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: wikisource/extract_story_texts.py <story title>")
+        print("Usage: wikisource/extract_story_texts.py [--refresh] <story title>")
         return 2
 
-    title = " ".join(sys.argv[1:])
+    args = sys.argv[1:]
+    refresh = False
+    if "--refresh" in args:
+        refresh = True
+        args = [a for a in args if a != "--refresh"]
+
+    title = " ".join(args)
     entry = load_entry(title)
     if not entry:
         print(f"Story not found in wikisource_urls.json: {title}")
@@ -268,8 +312,12 @@ def main():
         return 1
 
     repo_text = normalize_text(extract_repo_text(repo_path))
-    wiki_text = normalize_text(extract_wikisource_text(entry["wikisource_url"]))
-    wiki_text = strip_wikisource_title(wiki_text, entry["title"])
+    wiki_text = normalize_text(extract_wikisource_text(entry["wikisource_url"], refresh=refresh))
+    wiki_text = strip_wikisource_title(
+        wiki_text,
+        entry["title"],
+        wikisource_title=entry.get("wikisource_title"),
+    )
 
     out_dir = Path("wikisource/story_texts") / Path(href).stem
     out_dir.mkdir(parents=True, exist_ok=True)

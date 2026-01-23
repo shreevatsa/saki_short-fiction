@@ -34,9 +34,9 @@ The icy calm broke down; Adela Pingsford used language that sent the artist inst
 
 "Mr. Eshley," said Adela in a shaking voice, "I asked you to drive that beast out of my garden, but I did not ask you to drive it into my house. If I must have it anywhere on the premises I prefer the garden to the morning-room."
 
-{"Cattle drives are not in my line," said Eshley; "if I remember I told you so at the outset."
+"Cattle drives are not in my line," said Eshley; "if I remember I told you so at the outset."{
 
-"I quite agree," retorted the lady, "painting pretty pictures of pretty little cows is what you're suited for. Perhaps you'd like to do a nice sketch of that ox making itself at home in my morning-room?"}{"Cattle drives are not in my line," said Eshley; "if I remember I told you so at the outset." "I quite agree," retorted the lady, "painting pretty pictures of pretty little cows is what you're suited for. Perhaps you'd like to do a nice sketch of that ox making itself at home in my morning-room?"}
+}{ }"I quite agree," retorted the lady, "painting pretty pictures of pretty little cows is what you're suited for. Perhaps you'd like to do a nice sketch of that ox making itself at home in my morning-room?"
 
 This time it seemed as if the worm had turned; Eshley began striding away.
 

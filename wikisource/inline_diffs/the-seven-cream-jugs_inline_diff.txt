@@ -92,6 +92,6 @@ Mrs. Peter broke off in some confusion, and tripped out to meet her husband in t
 
 "Brave little woman," said Peter, with a gasp of relief; "I could never have done it."
 
-{Diplomatic reticence does not necessarily extend to family affairs. Peter Pigeoncote was never able to understand why Mrs. Consuelo van Bullyon, who stayed with them in the spring, always carried two very obvious jewel-cases with her to the bathroom, explaining them to anyone she chanced to meet in the corridor as her manicure and face-massage set.}{* * * * *
+{}{* * * * *
 
-Diplomatic reticence does not necessarily extend to family affairs. Peter Pigeoncote was never able to understand why Mrs. Consuelo van Bullyon, who stayed with them in the spring, always carried two very obvious jewel-cases with her to the bath-room, explaining them to any one she chanced to meet in the corridor as her manicure and face-massage set.}
+}Diplomatic reticence does not necessarily extend to family affairs. Peter Pigeoncote was never able to understand why Mrs. Consuelo van Bullyon, who stayed with them in the spring, always carried two very obvious jewel-cases with her to the {bathroom}{bath-room}, explaining them to {anyone}{any one} she chanced to meet in the corridor as her manicure and face-massage set.

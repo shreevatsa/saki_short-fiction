@@ -50,9 +50,9 @@ It was a day or two after the conversation in the swimming-bath that a letter ad
 
 "Bertie, carissimo," it began, "I wonder if you will have the nerve to do it: it will take some nerve, too. Don't forget the jewels. They are a detail, but details interest me.
 
-{"Yours as ever,
+"Yours as ever,{
 
-"Clotilde."}{"Yours as ever, Clotilde."}
+"}{ }Clotilde."
 
 "Your mother must not know of my existence. If questioned swear you never heard of me."
 

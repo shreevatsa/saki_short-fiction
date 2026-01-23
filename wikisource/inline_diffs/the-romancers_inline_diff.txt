@@ -56,9 +56,9 @@ He raised his voice on the word "poverty" with a suggestion of intense feeling. 
 
 "In Yom," said Crosby, "it is not necessary to have friends in order to obtain help. Any citizen of Yom would help a stranger as a matter of course."
 
-{The greybeard was now genuinely interested.
+The greybeard was now genuinely interested.{
 
-The conversation had at last taken a favourable turn.}{The greybeard was now genuinely interested. The conversation had at last taken a favourable turn.}
+}{ }The conversation had at last taken a favourable turn.
 
 "If someone, like me, for instance, who was in undeserved difficulties, asked a citizen of that town you speak of for a small loan to tide over a few days' impecuniosity{}{ }—{}{ }five shillings, or perhaps a rather larger sum{}{ }—{}{ }would it be given to him as a matter of course?"
 

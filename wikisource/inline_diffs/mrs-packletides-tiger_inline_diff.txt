@@ -38,13 +38,11 @@ From Curzon Street the tiger-skin rug travelled down to the Manor House, and was
 
 "You surely wouldn't give me away?" she asked.
 
-{"I've seen a weekend cottage near Dorking that I should rather like to buy," said Miss Mebbin with seeming irrelevance. "Six hundred and eighty, freehold. Quite a bargain, only I don't happen to have the money."
+"I've seen a {weekend}{week-end} cottage near Dorking that I should rather like to buy," said Miss Mebbin with seeming irrelevance. "Six hundred and eighty, freehold. Quite a bargain, only I don't happen to have the money."
 
-Louisa Mebbin's pretty weekend cottage, christened by her "Les Fauves," and gay in summertime with its garden borders of tiger-lilies, is the wonder and admiration of her friends.}{"I've seen a week-end cottage near Dorking that I should rather like to buy," said Miss Mebbin with seeming irrelevance. "Six hundred and eighty, freehold. Quite a bargain, only I don't happen to have the money."
+{}{•••••
 
-•••••
-
-Louisa Mebbin's pretty week-end cottage, christened by her "Les Fauves," and gay in summer-time with its garden borders of tiger-lilies, is the wonder and admiration of her friends.}
+}Louisa Mebbin's pretty {weekend}{week-end} cottage, christened by her "Les Fauves," and gay in {summertime}{summer-time} with its garden borders of tiger-lilies, is the wonder and admiration of her friends.
 
 "It is a marvel how Louisa manages to do it," is the general verdict.
 

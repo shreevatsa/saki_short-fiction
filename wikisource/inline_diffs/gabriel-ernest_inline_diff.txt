@@ -58,13 +58,11 @@ The prospect of this wild, nude animal in Van Cheele's primly ordered house was 
 
 "If you don't go{.}{} I shall have to make you," said Van Cheele.
 
-{The boy turned like a flash, plunged into the pool, and in a moment had flung his wet and glistening body halfway up the bank where Van Cheele was standing. In an otter the movement would not have been remarkable; in a boy Van Cheele found it sufficiently startling. His foot slipped as he made an involuntarily backward movement, and he found himself almost prostrate on the slippery weed-grown bank, with those tigerish yellow eyes not very far from his own. Almost instinctively he half raised his hand to his throat. They boy laughed again, a laugh in which the snarl had nearly driven out the chuckle, and then, with another of his astonishing lightning movements, plunged out of view into a yielding tangle of weed and fern.
+The boy turned like a flash, plunged into the pool, and in a moment had flung his wet and glistening body {halfway}{half-way} up the bank where Van Cheele was standing. In an otter the movement would not have been remarkable; in a boy Van Cheele found it sufficiently startling. His foot slipped as he made an involuntarily backward movement, and he found himself almost prostrate on the slippery weed-grown bank, with those tigerish yellow eyes not very far from his own. Almost instinctively he half raised his hand to his throat. {They}{The} boy laughed again, a laugh in which the snarl had nearly driven out the chuckle, and then, with another of his astonishing lightning movements, plunged out of view into a yielding tangle of weed and fern.
 
-"What an extraordinary wild animal!" said Van Cheele as he picked himself up. And then he recalled Cunningham's remark "There is a wild beast in your woods."}{The boy turned like a flash, plunged into the pool, and in a moment had flung his wet and glistening body half-way up the bank where Van Cheele was standing. In an otter the movement would not have been remarkable; in a boy Van Cheele found it sufficiently startling. His foot slipped as he made an involuntarily backward movement, and he found himself almost prostrate on the slippery weed-grown bank, with those tigerish yellow eyes not very far from his own. Almost instinctively he half raised his hand to his throat. The boy laughed again, a laugh in which the snarl had nearly driven out the chuckle, and then, with another of his astonishing lightning movements, plunged out of view into a yielding tangle of weed and fern.
+"What an extraordinary wild animal!" said Van Cheele as he picked himself up.{ }{
 
-"What an extraordinary wild animal!" said Van Cheele as he picked himself up.
-
-And then he recalled Cunningham's remark: "There is a wild beast in your woods."}
+}And then he recalled Cunningham's remark{}{:} "There is a wild beast in your woods."
 
 Walking slowly homeward, Van Cheele began to turn over in his mind various local occurrences which might be traceable to the existence of this astonishing young savage.
 
