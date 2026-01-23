@@ -174,17 +174,35 @@ def strip_wikisource_header(text: str, title: str) -> str:
     candidate_indexes = [i for i, line in enumerate(trimmed_lines) if line.lower() == title_lower]
     for index in reversed(candidate_indexes):
         next_index = index + 1
+        while next_index < len(trimmed_lines) and trimmed_lines[next_index] == "":
+            next_index += 1
         if next_index >= len(trimmed_lines):
             continue
         next_line = trimmed_lines[next_index]
         if next_line == "I" or ROMAN_NUMERAL_RE.match(next_line):
             start = next_index + 1
             return "\n".join(lines[start:])
-        if next_line[:2].lower() in {"it", "t "}:
-            return "\n".join(lines[next_index:])
+        return "\n".join(lines[next_index:])
+
+    header_markers = {
+        "listen to this text",
+        "help",
+        "file info or download",
+        "layout 2",
+        "layout 1",
+        "layout 3",
+    }
 
     for i, line in enumerate(trimmed_lines):
+        if line.lower() in header_markers:
+            continue
+        if line.startswith("←") or line.startswith("→"):
+            continue
+        if line.startswith("\"") or line.startswith("'"):
+            return "\n".join(lines[i:])
         if line[:2].lower() in {"it", "t "}:
+            return "\n".join(lines[i:])
+        if line and line[0].isalpha():
             return "\n".join(lines[i:])
 
     return "\n".join(lines)
