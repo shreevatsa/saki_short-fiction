@@ -1,5 +1,4 @@
 ratio	abs_diff	story	repo_chars	wiki_chars
-1.024	76	reginalds-peace-poem	3291	3215
 1.012	43	a-young-turkish-catastrophe	3514	3557
 1.008	66	the-cupboard-of-the-yesterdays	7902	7968
 1.006	51	the-mouse	8618	8669
@@ -86,6 +85,7 @@ ratio	abs_diff	story	repo_chars	wiki_chars
 1.001	5	adrian	7830	7835
 1.001	7	the-sheep	11152	11159
 1.001	4	reginalds-rubaiyat	6380	6384
+1.001	2	reginalds-peace-poem	3291	3293
 1.001	7	the-name-day	11677	11684
 1.001	5	the-easter-egg	8372	8377
 1.001	9	the-secret-sin-of-septimus-brope	16345	16354
