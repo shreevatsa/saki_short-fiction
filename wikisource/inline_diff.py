@@ -44,12 +44,15 @@ VOID_TAGS = {
 }
 
 
+PARA_TAGS = {"p", "dd", "li"}
+
+
 class WikiParagraphExtractor(HTMLParser):
     def __init__(self):
         super().__init__()
         self.paragraphs = []
         self._buf = []
-        self._in_p = False
+        self._para_tag = None
         self._skip_stack = []
 
     def _is_skip(self, attrs):
@@ -69,10 +72,10 @@ class WikiParagraphExtractor(HTMLParser):
         if tag not in VOID_TAGS:
             self._skip_stack.append(cur_skip)
 
-        if tag == "p" and not cur_skip:
-            self._in_p = True
+        if tag in PARA_TAGS and not cur_skip and self._para_tag is None:
+            self._para_tag = tag
             self._buf = []
-        elif self._in_p and tag == "br":
+        elif self._para_tag and tag == "br":
             self._buf.append("\n")
 
     def handle_startendtag(self, tag, attrs):
@@ -80,18 +83,20 @@ class WikiParagraphExtractor(HTMLParser):
         self.handle_endtag(tag)
 
     def handle_endtag(self, tag):
-        if tag == "p" and self._in_p:
+        if tag == self._para_tag:
             text = "".join(self._buf).strip()
             if text:
                 self.paragraphs.append(text)
-            self._in_p = False
+            self._para_tag = None
             self._buf = []
+        elif self._para_tag and tag == "p":
+            self._buf.append("\n\n")
 
         if tag not in VOID_TAGS and self._skip_stack:
             self._skip_stack.pop()
 
     def handle_data(self, data):
-        if not self._in_p:
+        if not self._para_tag:
             return
         if self._skip_stack and self._skip_stack[-1]:
             return

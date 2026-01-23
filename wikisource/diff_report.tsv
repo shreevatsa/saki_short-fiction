@@ -1,5 +1,4 @@
 ratio	abs_diff	story	repo_chars	wiki_chars
-1.103	956	shock-tactics	10205	9249
 1.024	76	reginalds-peace-poem	3291	3215
 1.013	121	the-wolves-of-cernogratz	9325	9204
 1.012	43	a-young-turkish-catastrophe	3514	3557
@@ -103,6 +102,7 @@ ratio	abs_diff	story	repo_chars	wiki_chars
 1.000	5	gabriel-ernest	13840	13845
 1.000	4	berties-christmas-eve	11704	11708
 1.000	3	morlvera	9078	9075
+1.000	3	shock-tactics	10205	10208
 1.000	1	reginald-on-christmas-presents	4083	4084
 1.000	3	the-music-on-the-hill	12306	12309
 1.000	1	reginald-on-house-parties	4884	4885
