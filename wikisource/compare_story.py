@@ -169,9 +169,17 @@ def strip_wikisource_header(text: str, title: str) -> str:
     if not lines:
         return text
 
-    title_lower = title.lower()
+    title_folded = title.casefold()
     trimmed_lines = [line.strip() for line in lines]
-    candidate_indexes = [i for i, line in enumerate(trimmed_lines) if line.lower() == title_lower]
+    header_limit = min(len(trimmed_lines), 80)
+
+    def is_title_match(line: str) -> bool:
+        if not line:
+            return False
+        folded = line.casefold()
+        return folded == title_folded or title_folded in folded
+
+    candidate_indexes = [i for i in range(header_limit) if is_title_match(trimmed_lines[i])]
     for index in reversed(candidate_indexes):
         next_index = index + 1
         while next_index < len(trimmed_lines) and trimmed_lines[next_index] == "":
@@ -185,6 +193,7 @@ def strip_wikisource_header(text: str, title: str) -> str:
         return "\n".join(lines[next_index:])
 
     header_markers = {
+        "front matter",
         "listen to this text",
         "help",
         "file info or download",
