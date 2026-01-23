@@ -1,5 +1,4 @@
 ratio	abs_diff	story	repo_chars	wiki_chars	max_brace_len	max_brace_excerpt
-1.008	66	the-cupboard-of-the-yesterdays	7902	7968	61	 of the area of chronically disturbed territory, a stiffening
 1.006	51	the-mouse	8618	8669	46	Printed by\n\nMorrison & Gibb Limited\n\nEdinburgh
 1.005	23	reginald-on-besetting-sins	4265	4242	30	The Woman Who Told the Truth\n\n
 1.005	33	filboid-studge	6235	6202	32	The Story of a Mouse That Helped
@@ -81,6 +80,7 @@ ratio	abs_diff	story	repo_chars	wiki_chars	max_brace_len	max_brace_excerpt
 1.001	4	the-reticence-of-lady-anne	6193	6197	10	hearth-rug
 1.001	7	excepting-mrs-pentherby	10891	10898	13	sub-committee
 1.001	5	adrian	7830	7835	16	ACCLIMATISATION.
+1.001	5	the-cupboard-of-the-yesterdays	7902	7907	10	South-East
 1.001	7	the-sheep	11152	11159	13	over-crowding
 1.001	4	reginalds-rubaiyat	6380	6384	11	pack-saddle
 1.001	2	reginalds-peace-poem	3291	3293	12	honey-suckle
