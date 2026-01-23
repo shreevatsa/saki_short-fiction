@@ -50,7 +50,9 @@ It was a day or two after the conversation in the swimming-bath that a letter ad
 
 "Bertie, carissimo," it began, "I wonder if you will have the nerve to do it: it will take some nerve, too. Don't forget the jewels. They are a detail, but details interest me.
 
-"Yours as ever, {"}{}Clotilde."
+{"Yours as ever,
+
+"Clotilde."}{"Yours as ever, Clotilde."}
 
 "Your mother must not know of my existence. If questioned swear you never heard of me."
 
@@ -86,13 +88,11 @@ Anything that Mrs. Heasant had previously done in the way of outcry was easily s
 
 No solution of these problems was forthcoming through the bedroom door, but the last post of the evening produced another letter for Bertie, and its contents brought Mrs. Heasant that enlightenment which had already dawned on her son.
 
-{"Dear Bertie," it ran; "I hope I haven't distracted your brain with the spoof letters I've been sending in the name of a fictitious Clotilde. You told me the other day that the servants, or somebody at your home, tampered with your letters, so I thought I would give anyone that opened them something exciting to read. The shock might do them good.
-
-"Yours, "Clovis Sangrail."}{"Dear Bertie," it ran; "I hope I haven't distracted your brain with the spoof letters I've been sending in the name of a fictitious Clotilde. You told me the other day that the servants, or somebody at your home, tampered with your letters, so I thought I would give any one that opened them something exciting to read. The shock might do them good.
+"Dear Bertie," it ran; "I hope I haven't distracted your brain with the spoof letters I've been sending in the name of a fictitious Clotilde. You told me the other day that the servants, or somebody at your home, tampered with your letters, so I thought I would give {anyone}{any one} that opened them something exciting to read. The shock might do them good.
 
 "Yours,
 
-"Clovis Sangrail."}
+"Clovis Sangrail."
 
 Mrs. Heasant knew Clovis slightly, and was rather afraid of him. It was not difficult to read between the lines of his successful hoax. In a chastened mood she rapped once more at Bertie's door.
 

@@ -62,7 +62,7 @@ The {chief}{Chief} {organiser}{Organiser} rang off.
 
 Eight o'clock struck. The crowd outside chanted with an increasing volume of sound:
 
-{"Will vote the other way."}{}
+"Will vote the other way."
 
 A telegram was brought in. It was from the central committee rooms at Nemesis. {}{"}Losing twenty votes per minute,{}{"} was its brief message.
 

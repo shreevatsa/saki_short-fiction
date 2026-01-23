@@ -6,6 +6,7 @@ import json
 import re
 import sys
 import urllib.request
+import time
 from html.parser import HTMLParser
 from pathlib import Path
 import xml.etree.ElementTree as ET
@@ -160,6 +161,24 @@ def extract_repo_text(xhtml_path):
     tr_tag = tag("tr")
     td_tag = tag("td")
     th_tag = tag("th")
+    br_tag = tag("br")
+
+    def text_with_breaks(node):
+        parts = []
+
+        def walk(el):
+            if el.text:
+                parts.append(el.text)
+            for child in list(el):
+                if child.tag == br_tag:
+                    parts.append("\n")
+                else:
+                    walk(child)
+                if child.tail:
+                    parts.append(child.tail)
+
+        walk(node)
+        return "".join(parts)
 
     for el in root.iter():
         if el.tag == tr_tag:
@@ -167,7 +186,7 @@ def extract_repo_text(xhtml_path):
             for cell in el:
                 if cell.tag not in (td_tag, th_tag):
                     continue
-                cell_text = " ".join("".join(cell.itertext()).split())
+                cell_text = " ".join(text_with_breaks(cell).split())
                 if cell_text:
                     cells.append(cell_text)
             if cells:
@@ -181,7 +200,7 @@ def extract_repo_text(xhtml_path):
             continue
 
         if el.tag == p_tag:
-            txt = " ".join("".join(el.itertext()).split())
+            txt = text_with_breaks(el).strip()
             if txt:
                 paragraphs.append(txt)
             continue
@@ -189,20 +208,27 @@ def extract_repo_text(xhtml_path):
         if el.tag == li_tag:
             if el.find(".//x:p", ns) is not None:
                 continue
-            txt = " ".join("".join(el.itertext()).split())
+            txt = text_with_breaks(el).strip()
             if txt:
                 paragraphs.append(txt)
     return "\n\n".join(paragraphs)
 
 
-def fetch_wikisource_html(url):
+def fetch_wikisource_html(url, max_retries=5, base_delay=1.0):
     if "?" in url:
         fetch_url = f"{url}&action=render"
     else:
         fetch_url = f"{url}?action=render"
     req = urllib.request.Request(fetch_url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+    for attempt in range(max_retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return resp.read().decode("utf-8", errors="replace")
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or attempt >= max_retries:
+                raise
+            delay = base_delay * (2 ** attempt)
+            time.sleep(delay)
 
 
 def extract_wikisource_text(url):

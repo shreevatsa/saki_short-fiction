@@ -84,6 +84,6 @@ There was a moment of constrained silence, and then the banker's wife spoke.
 
 "It is the intense cold that is splitting the trees. It is also the cold that has brought the wolves out in such numbers. It is many years since we have had such a cold winter."
 
-{The baroness eagerly agreed that the cold was responsible for these things. It was the cold of the open window, too, which caused the heart failure that made the doctor's ministrations unnecessary for the old Fräulein. But the notice in the newspapers looked very well—
+The {baroness}{Baroness} eagerly agreed that the cold was responsible for these things. It was the cold of the open window, too, which caused the heart failure that made the doctor's ministrations unnecessary for the old {Fräulein}{Fraulein}. But the notice in the newspapers looked very well—
 
-"On December 29th, at Schloss Cernogratz, Amalie von Cernogratz, for many years the valued friend of Baron and Baroness Gruebel."}{The Baroness eagerly agreed that the cold was responsible for these things. It was the cold of the open window, too, which caused the heart failure that made the doctor's ministrations unnecessary for the old Fraulein. But the notice in the newspapers looked very well—}
+"On December 29th, at Schloss Cernogratz, Amalie von Cernogratz, for many years the valued friend of Baron and Baroness Gruebel."

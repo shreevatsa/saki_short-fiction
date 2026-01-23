@@ -1,6 +1,5 @@
 ratio	abs_diff	story	repo_chars	wiki_chars
 1.024	76	reginalds-peace-poem	3291	3215
-1.013	121	the-wolves-of-cernogratz	9325	9204
 1.012	43	a-young-turkish-catastrophe	3514	3557
 1.008	66	the-cupboard-of-the-yesterdays	7902	7968
 1.006	51	the-mouse	8618	8669
@@ -16,7 +15,6 @@ ratio	abs_diff	story	repo_chars	wiki_chars
 1.003	17	clovis-on-parental-responsibilities	5948	5965
 1.002	12	the-image-of-the-lost-soul	4930	4942
 1.002	18	the-quince-tree	7415	7433
-1.002	20	canossa	8265	8245
 1.002	25	the-stalled-ox	10314	10339
 1.002	27	on-approval	11539	11566
 1.002	17	the-treasure-ship	7652	7669
@@ -54,12 +52,14 @@ ratio	abs_diff	story	repo_chars	wiki_chars
 1.001	10	the-unkindest-blow	9061	9071
 1.001	10	cousin-teresa	9080	9090
 1.001	8	the-jesting-of-arlington-stringham	7370	7378
+1.001	10	the-wolves-of-cernogratz	9325	9335
 1.001	17	tobermory	16205	16222
 1.001	10	for-the-duration-of-the-war	9651	9661
 1.001	7	the-open-window	6835	6842
 1.001	11	the-elk	10890	10879
 1.001	8	louise	8174	8182
 1.001	6	reginald-in-russia	6175	6181
+1.001	8	canossa	8265	8273
 1.001	10	the-schartz-metterklume-method	10492	10502
 1.001	8	the-phantom-luncheon	8545	8553
 1.001	9	the-soul-of-laploshka	9653	9662
@@ -102,7 +102,6 @@ ratio	abs_diff	story	repo_chars	wiki_chars
 1.000	5	gabriel-ernest	13840	13845
 1.000	4	berties-christmas-eve	11704	11708
 1.000	3	morlvera	9078	9075
-1.000	3	shock-tactics	10205	10208
 1.000	1	reginald-on-christmas-presents	4083	4084
 1.000	3	the-music-on-the-hill	12306	12309
 1.000	1	reginald-on-house-parties	4884	4885
@@ -113,6 +112,7 @@ ratio	abs_diff	story	repo_chars	wiki_chars
 1.000	1	reginalds-christmas-revel	6407	6408
 1.000	1	the-background	7321	7322
 1.000	1	the-quest	9632	9631
+1.000	1	shock-tactics	10207	10208
 1.000	1	the-disappearance-of-crispina-umberleigh	10401	10400
 1.000	1	a-touch-of-realism	11082	11083
 1.000	1	the-seventh-pullet	12964	12965
