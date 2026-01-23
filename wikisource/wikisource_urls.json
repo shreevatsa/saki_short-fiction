@@ -43,10 +43,10 @@
     "index": 5,
     "title": "Reginald",
     "href": "text/reginald.xhtml",
-    "wikisource_title": "Reginald",
-    "wikisource_url": "https://en.wikisource.org/wiki/Reginald",
-    "match_source": "author_page",
-    "match_kind": "author_exact",
+    "wikisource_title": "Reginald/Reginald",
+    "wikisource_url": "https://en.wikisource.org/wiki/Reginald/Reginald",
+    "match_source": "manual_fix",
+    "match_kind": "manual_fix",
     "confidence": "high"
   },
   {

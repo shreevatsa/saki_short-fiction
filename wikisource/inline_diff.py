@@ -136,10 +136,45 @@ def extract_repo_text(xhtml_path):
     tree = ET.parse(xhtml_path)
     root = tree.getroot()
     paragraphs = []
-    for p in root.findall(".//x:p", ns):
-        txt = "".join(p.itertext()).strip()
-        if txt:
-            paragraphs.append(txt)
+    ns_url = ns["x"]
+    tag = lambda t: f"{{{ns_url}}}{t}"
+    p_tag = tag("p")
+    li_tag = tag("li")
+    tr_tag = tag("tr")
+    td_tag = tag("td")
+    th_tag = tag("th")
+
+    for el in root.iter():
+        if el.tag == tr_tag:
+            cells = []
+            for cell in el:
+                if cell.tag not in (td_tag, th_tag):
+                    continue
+                cell_text = " ".join("".join(cell.itertext()).split())
+                if cell_text:
+                    cells.append(cell_text)
+            if cells:
+                if len(cells) >= 2:
+                    line = f"{cells[0]}: {cells[1]}"
+                    if len(cells) > 2:
+                        line += " " + " ".join(cells[2:])
+                else:
+                    line = cells[0]
+                paragraphs.append(line)
+            continue
+
+        if el.tag == p_tag:
+            txt = " ".join("".join(el.itertext()).split())
+            if txt:
+                paragraphs.append(txt)
+            continue
+
+        if el.tag == li_tag:
+            if el.find(".//x:p", ns) is not None:
+                continue
+            txt = " ".join("".join(el.itertext()).split())
+            if txt:
+                paragraphs.append(txt)
     return "\n\n".join(paragraphs)
 
 

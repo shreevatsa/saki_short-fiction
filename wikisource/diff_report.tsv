@@ -1,6 +1,4 @@
 ratio	abs_diff	story	repo_chars	wiki_chars
-37.474	8462	the-bakers-dozen	232	8694
-22.135	6256	reginald	6552	296
 1.103	956	shock-tactics	10205	9249
 1.024	76	reginalds-peace-poem	3291	3215
 1.013	121	the-wolves-of-cernogratz	9325	9204
@@ -11,6 +9,7 @@ ratio	abs_diff	story	repo_chars	wiki_chars
 1.005	37	the-blood-feud-of-toad-water	7553	7590
 1.004	26	hermann-the-irascible	5933	5959
 1.004	19	the-matchmaker	5250	5269
+1.004	31	the-bakers-dozen	8663	8694
 1.003	21	the-purple-of-the-balkan-kings	6402	6423
 1.003	16	the-saint-and-the-goblin	5362	5378
 1.003	37	the-lost-sanjak	12755	12792
@@ -31,6 +30,7 @@ ratio	abs_diff	story	repo_chars	wiki_chars
 1.002	20	the-hen	10474	10494
 1.002	18	a-defensive-diamond	9650	9668
 1.002	18	fur	9775	9793
+1.002	12	reginald	6552	6564
 1.002	18	the-boar-pig	9902	9920
 1.002	18	the-philanthropist-and-the-happy-cat	10347	10365
 1.002	15	the-forbidden-buzzards	8815	8830

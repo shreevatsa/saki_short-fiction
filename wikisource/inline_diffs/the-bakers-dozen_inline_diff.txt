@@ -8,15 +8,15 @@ Mrs. Paly-Paget.
 
 Scene—Deck of eastward-bound steamer. Major Dumbarton seated on deck-chair, another chair by his side, with the name "Mrs. Carewe" painted on it, a third near by.
 
-{}{(Enter R. Mrs. Carewe, seats herself leisurely in her deck-chair, the Major affecting to ignore her presence.)
+{}{(}Enter R. Mrs. Carewe, seats herself leisurely in her deck-chair, the Major affecting to ignore her presence.{}{)}
 
-Major (turning suddenly): Emily! After all these years! This is fate!
+Major{:}{} {Turning}{(turning} suddenly{.}{):} Emily! After all these years! This is fate!
 
-Em.: Fate! Nothing of the sort; it's only me. You men are always such fatalists. I deferred my departure three whole weeks, in order to come out in the same boat that I saw you were travelling by. I bribed the steward to put our chairs side by side in an unfrequented corner, and I took enormous pains to be looking particularly attractive this morning, and then you say "This is fate." I am looking particularly attractive, am I not?
+Em.: Fate! Nothing of the sort; it's only me. You men are always such fatalists. I deferred my departure three whole weeks, in order to come out in the same boat that I saw you were travelling by. I bribed the steward to put {out}{our} chairs side by side in an unfrequented corner, and I took enormous pains to be looking particularly attractive this morning, and then you say "This is fate." I am looking particularly attractive, am I not?
 
 Maj.: More than ever. Time has only added a ripeness to your charms.
 
-Em.: I knew you'd put it exactly in those words. The phraseology of love-making is awfully limited, isn't it? After all, the chief charm is in the fact of being made love to. You are making love to me, aren't you?
+Em.: I knew you'd put it exactly in those words. The phraseology of {lovemaking}{love-making} is awfully limited, isn't it? After all, the chief charm is in the fact of being made love to. You are making love to me, aren't you?
 
 Maj.: Emily dearest, I had already begun making advances, even before you sat down here. I also bribed the steward to put our seats together in a secluded corner. "You may consider it done, sir," was his reply. That was immediately after breakfast.
 
@@ -34,11 +34,11 @@ Maj.: Look here, Emily, it's not fair to go at that rate. You're a lap ahead of 
 
 Em.: Well, I've practically said it already, so we needn't dawdle over that part.
 
-Maj.: Oh, well——
+Maj.: Oh, well—{}{—}
 
-(They look at each other, then suddenly embrace with considerable energy.)
+{}{(}They look at each other, then suddenly embrace with considerable energy.{}{)}
 
-Maj.: We dead-heated it that time. (Suddenly jumping to his feet) Oh, d—— I'd forgotten!
+Maj.: We dead-heated it that time. {}{(}Suddenly jumping to his feet{.}{)} Oh, d{⸺}{——} I'd forgotten!
 
 Em.: Forgotten what?
 
@@ -46,23 +46,23 @@ Maj.: The children. I ought to have told you. Do you mind children?
 
 Em.: Not in moderate quantities. How many have you got?
 
-Maj. (counting hurriedly on his fingers): Five.
+Maj.{:}{} {Counting}{(counting} hurriedly on his fingers{.}{):} Five.
 
 Em.: Five!
 
-Maj. (anxiously): Is that too many?
+Maj.{}{ (anxiously)}:{ Anxiously.}{} Is that too many?
 
 Em.: It's rather a number. The worst of it is, I've some myself.
 
 Maj.: Many?
 
-Em.: Eight
+Em.: Eight{.}{}
 
 Maj.: Eight in six years! Oh, Emily!
 
 Em.: Only four were my own. The other four were by my husband's first marriage. Still, that practically makes eight.
 
-Maj.: And eight and five make thirteen. We can't start our married life with thirteen children; it would be most unlucky. (Walks up and down in agitation.) Some way must be found out of this. If we could only bring them down to twelve. Thirteen is so horribly unlucky.
+Maj.: And eight and five make thirteen. We can't start our married life with thirteen children; it would be most unlucky. {}{(}Walks up and down in agitation.{}{)} Some way must be found out of this. If we could only bring them down to twelve. Thirteen is so horribly unlucky.
 
 Em.: Isn't there some way by which we could part with one or two? Don't the French want more children? I've often seen articles about it in the Figaro.
 
@@ -72,7 +72,7 @@ Em.: There's always a chance that one of them might turn out depraved and viciou
 
 Maj.: But, good gracious, you've got to educate him first. You can't expect a boy to be vicious till he's been to a good school.
 
-Em.: Why couldn't he be naturally depraved. Lots of boys are.
+Em.: Why couldn't he be naturally depraved{?}{.} Lots of boys are.
 
 Maj.: Only when they inherit it from depraved parents. You don't suppose there's any depravity in me, do you?
 
@@ -86,9 +86,9 @@ Maj.: But one can't build too much on that. In mid-Victorian days they labelled 
 
 Em.: Don't people ever adopt children from other families?
 
-Maj.: I've heard of it being done by childless couples, and those sort of people——
+Maj.: I've heard of it being done by childless couples, and those sort of people—{}{—}
 
-Em.: Hush! Some one's coming. Who is it?
+Em.: Hush! {Someone's}{Some one's} coming. Who is it?
 
 Maj.: Mrs. Paly-Paget.
 
@@ -100,15 +100,15 @@ Em.: Only one miserable hen-baby.
 
 Maj.: Let's sound her on the subject.
 
-(Enter Mrs. Paly-Paget, R.)
+{}{(}Enter Mrs. Paly-Paget, R.{}{)}
 
 Ah, good morning. Mrs. Paly-Paget. I was just wondering at breakfast where did we meet last?
 
-Mrs. P.-P.: At the Criterion, wasn't it? (Drops into vacant chair.)
+Mrs. P.-P.: At the Criterion, wasn't it? {}{(}Drops into vacant chair.{}{)}
 
 Maj.: At the Criterion, of course.
 
-Mrs. P.-P.: I was dining with Lord and Lady Slugford. Charming people, but so mean. They took us afterwards to the Velodrome, to see some dancer interpreting Mendelssohn's "songs without clothes." We were all packed up in a little box near the roof, and you may imagine how hot it was. It was like a Turkish bath. And, of course, one couldn't see anything.
+Mrs. P.-P.: I was dining with Lord and Lady Slugford. Charming people, but so mean. They took us afterwards to the Velodrome, to see some dancer interpreting Mendelssohn's "{Song}{songs} {Without}{without} {Clothes}{clothes}." We were all packed up in a little box near the roof, and you may imagine how hot it was. It was like a Turkish bath. And, of course, one couldn't see anything.
 
 Maj.: Then it was not like a Turkish bath.
 
@@ -130,29 +130,29 @@ Maj.: Only one pair of feet.
 
 Mrs. P.-P.: Certainly. My child isn't a centipede. Considering the way they move us about in those horrid jungle stations, without a decent bungalow to set one's foot in, I consider I've got a hearthless child, rather than a childless hearth. Thank you for your sympathy all the same. I dare say it was well meant. Impertinence often is.
 
-Em: Dear Mrs. Paly-Paget, we were only feeling sorry for your sweet little girl when she grows older, you know, No little brothers and sisters to play with.
+Em{.}{}: Dear Mrs. Paly-Paget, we were only feeling sorry for your sweet little girl when she grows older, you know{.}{,} No little brothers and sisters to play with.
 
 Mrs. P.-P.: Mrs. Carewe, this conversation strikes me as being indelicate, to say the least of it. I've only been married two and a half years, and my family is naturally a small one.
 
-Maj.: Isn't it rather an exaggeration to talk of one little female child as a family? A family suggests numbers,
+Maj.: Isn't it rather an exaggeration to talk of one little female child as a family? A family suggests numbers{.}{,}
 
-Mrs. P.-P.: Really, Major, your language is extraordinary. I dare say I've only got a little female child, as you call it, at present——
+Mrs. P.-P.: Really, Major, {you}{your} language is extraordinary. I dare say I've only got a little female child, as you call it, at present—{}{—}
 
 Maj.: Oh, it won't change into a boy later on, if that's what you're counting on. Take our word for it; we've had so much more experience in these affairs than you have. Once a female, always a female. Nature is not infallible, but she always abides by her mistakes.
 
-Mrs. P.-P. (rising): Major Dumbarton, these boats are uncomfortably small, but I trust we shall find ample accommodation for avoiding each other's society during the rest of the voyage. The same wish applies to you, Mrs. Carewe.
+Mrs. P.-P.{}{ (rising)}:{ Rising.}{} Major Dumbarton, these boats are uncomfortably small, but I trust we shall find ample accommodation for avoiding each other's society during the rest of the voyage. The same wish applies to you, Mrs. Carewe.
 
-(Exit Mrs. Paly-Paget, L.)
+{}{(}Exit Mrs. Paly-Paget, L.{}{)}
 
-Maj.: What an unnatural mother! (Sinks into chair.)
+Maj.: What an unnatural mother! {}{(}Sinks into chair.{}{)}
 
-Em.: I wouldn't trust a child with any one who had a temper like hers. Oh, Dickie, why did you go and have such a large family? You always said you wanted me to be the mother of your children.
+Em.: I wouldn't trust a child with {anyone}{any one} who had a temper like hers. Oh, Dickie, why did you go and have such a large family? You always said you wanted me to be the mother of your children.
 
 Maj.: I wasn't going to wait while you were founding and fostering dynasties in other directions. Why you couldn't be content to have children of your own, without collecting them like batches of postage stamps I can't think. The idea of marrying a man with four children!
 
 Em.: Well, you're asking me to marry one with five.
 
-Maj.: Five! (Springing to his feet) Did I say five?
+Maj.: Five! {}{(}Springing to his feet{.}{)} Did I say five?
 
 Em.: You certainly said five.
 
@@ -160,11 +160,11 @@ Maj.: Oh, Emily, supposing I've miscounted them! Listen now, keep count with me.
 
 Em.: One.
 
-Maj.: Albert-Victor—that must have been in Coronation year.
+Maj.: Albert-Victor—that must have been in {coronation}{Coronation} year.
 
 Em.: Two!
 
-Maj.: Maud. She's called after——
+Maj.: Maud. She's called after—{}{—}
 
 Em.: Never mind who's she's called after. Three!
 
@@ -182,4 +182,4 @@ Em.: Richard!
 
 Maj.: Emily!
 
-(They embrace.)}
+{}{(}They embrace.{}{)}

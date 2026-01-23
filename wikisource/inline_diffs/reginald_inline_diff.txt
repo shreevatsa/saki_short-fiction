@@ -1,4 +1,4 @@
-{I did it—I who should have known better. I persuaded Reginald to go to the McKillops' garden-party against his will.
+I did it—I who should have known better. I persuaded Reginald to go to the McKillops' garden-party against his will.
 
 We all make mistakes occasionally.
 
@@ -6,7 +6,7 @@ We all make mistakes occasionally.
 
 "I know, you want one of her smoke Persian kittens as a prospective wife for Wumples—or a husband, is it?" (Reginald has a magnificent scorn for details, other than sartorial.) "And I am expected to undergo social martyrdom to suit the connubial exigencies"—
 
-"Reginald! It's nothing of the kind, only I'm sure Mrs. McKillop would be pleased if I brought you. Young men of your brilliant attractions are rather at a premium at her garden-parties."
+"Reginald! It's nothing of the kind, only I'm sure Mrs. McKillop {would}{Would} be pleased if I brought you. Young men of your brilliant attractions are rather at a premium at her garden-parties."
 
 "Should be at a premium in heaven," remarked Reginald complacently.
 
@@ -22,11 +22,11 @@ Even then I had my misgivings.
 
 During the drive to the McKillops' Reginald was possessed with a great peace, which was not wholly to be accounted for by the fact that he had inveigled his feet into shoes a size too small for them. I misgave more than ever, and having once launched Reginald on to the McKillops' lawn, I established him near a seductive dish of marrons glacés, and as far from the Archdeacon's wife as possible; as I drifted away to a diplomatic distance I heard with painful distinctness the eldest Mawkby girl asking him if he had seen San Toy.
 
-It must have been ten minutes later, not more, and I had been having quite an enjoyable chat with my hostess, and had promised to lend her The Eternal City and my recipe for rabbit mayonnaise, and was just about to offer a kind home for her third Persian kitten, when I perceived, out of the corner of my eye, that Reginald was not where I had left him, and that the marrons glacés were untasted. At the same moment I became aware that old Colonel Mendoza was essaying to tell his classic story of how he introduced golf into India, and that Reginald was in dangerous proximity. There are occasions when Reginald is caviar to the Colonel.
+It must have been ten minutes later, not more, and I had been having quite an enjoyable chat with my hostess, and had promised to lend her The Eternal City and my recipe for rabbit mayonnaise, and was just about to offer a kind home for her third Persian kitten, when I perceived, out of the corner of my eye, that Reginald was not where I had left him, and that the marrons glacés were untasted. At the same moment I became aware that old Colonel Mendoza was essaying to tell his classic story of how he introduced golf into India, and that Reginald was in dangerous proximity. There are occasions when Reginald is {caviar}{caviare} to the Colonel.
 
 "When I was at Poona in '76"—
 
-"My dear Colonel," purred Reginald, "fancy admitting such a thing! Such a giveaway for one's age! I wouldn't admit being on this planet in '76." (Reginald in his wildest lapses into veracity never admits to being more than twenty-two.)
+"My dear Colonel," purred Reginald, "fancy admitting such a thing! Such a {giveaway}{give-away} for one's age! I wouldn't admit being on this planet in '76." (Reginald in his wildest lapses into veracity never admits to being more than twenty-two.)
 
 The Colonel went to the colour of a fig that has attained great ripeness, and Reginald, ignoring my efforts to intercept him, glided away to another part of the lawn. I found him a few minutes later happily engaged in teaching the youngest Rampage boy the approved theory of mixing absinthe, within full earshot of his mother. Mrs. Rampage occupies a prominent place in local Temperance movements.
 
@@ -38,9 +38,9 @@ She spoke in the dry, staccato tone of one who repeats a French exercise, and I 
 
 "If you don't mind," I said hurriedly, "I think we'd like our carriage ordered too," and I made a forced march in the direction of the croquet-ground.
 
-I found everyone talking nervously and feverishly of the weather and the war in South Africa, except Reginald, who was reclining in a comfortable chair with the dreamy, faraway look that a volcano might wear just after it had desolated entire villages. The Archdeacon's wife was buttoning up her gloves with a concentrated deliberation that was fearful to behold. I shall have to treble my subscription to her Cheerful Sunday Evenings Fund before I dare set foot in her house again.
+I found everyone talking nervously and feverishly of the weather and the war in South Africa, except Reginald, who was reclining in a comfortable chair with the dreamy, {faraway}{far-away} look that a volcano might wear just after it had desolated entire villages. The Archdeacon's wife was buttoning up her gloves with a concentrated deliberation that was fearful to behold. I shall have to treble my subscription to her Cheerful Sunday Evenings Fund before I dare set foot in her house again.
 
-At that particular moment the croquet players finished their game, which had been going on without a symptom of finality during the whole afternoon. Why, I ask, should it have stopped precisely when a counterattraction was so necessary? Everyone seemed to drift towards the area of disturbance, of which the chairs of the Archdeacon's wife and Reginald formed the storm-centre. Conversation flagged, and there settled upon the company that expectant hush that precedes the dawn—when your neighbours don't happen to keep poultry.
+At that particular moment the croquet players finished their game, which had been going on without a symptom of finality during the whole afternoon. Why, I ask, should it have stopped precisely when a {counterattraction}{counter-attraction} was so necessary? Everyone seemed to drift towards the area of disturbance, of which the chairs of the Archdeacon's wife and Reginald formed the storm-centre. Conversation flagged, and there settled upon the company that expectant hush that precedes the dawn—when your neighbours don't happen to keep poultry.
 
 "What did the Caspian Sea?" asked Reginald, with appalling suddenness.
 
@@ -50,12 +50,8 @@ I played my last card.
 
 "Reginald, it's getting late, and a sea-mist is coming on." I knew that the elaborate curl over his right eyebrow was not guaranteed to survive a sea-mist.
 
-"Never, never again, will I take you to a garden-party. Never … You behaved abominably … What did the Caspian see?"
+"Never, never again, will I take you to a garden-party. Never {…}{. . .} You behaved abominably {…}{. . .} What did the Caspian see?"
 
 A shade of genuine regret for misused opportunities passed over Reginald's face.
 
-"After all," he said, "I believe an apricot tie would have gone better with the lilac waistcoat."}{This work is in the public domain in the United States because it was published before January 1, 1931.
-
-This work may be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.
-
-Public domainPublic domainfalsefalse}
+"After all," he said, "I believe an apricot tie would have gone better with the lilac waistcoat."
