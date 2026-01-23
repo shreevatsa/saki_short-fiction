@@ -126,6 +126,23 @@ def normalize_text(text):
     return text.strip()
 
 
+def title_key(text):
+    text = text.strip()
+    text = re.sub(r"[\"'’“”]", "", text)
+    text = re.sub(r"[^0-9A-Za-z]+", " ", text)
+    text = re.sub(r"\s+", " ", text).strip().lower()
+    return text
+
+
+def strip_wikisource_title(text, title):
+    parts = [p for p in re.split(r"\n{2,}", text) if p.strip()]
+    if not parts:
+        return text
+    if title_key(parts[0]) == title_key(title):
+        parts = parts[1:]
+    return "\n\n".join(parts)
+
+
 def extract_repo_text(xhtml_path):
     ns = {"x": "http://www.w3.org/1999/xhtml"}
     tree = ET.parse(xhtml_path)
@@ -186,6 +203,7 @@ def main():
 
     repo_text = normalize_text(extract_repo_text(repo_path))
     wiki_text = normalize_text(extract_wikisource_text(entry["wikisource_url"]))
+    wiki_text = strip_wikisource_title(wiki_text, entry["title"])
 
     out_dir = Path("wikisource/story_texts") / Path(href).stem
     out_dir.mkdir(parents=True, exist_ok=True)
