@@ -1,17 +1,16 @@
 ratio	abs_diff	story	repo_chars	wiki_chars	max_brace_len	max_brace_excerpt
-1.012	43	a-young-turkish-catastrophe	3514	3557	28	A YOUNG TURKISH\n\nCATASTROPHE
 1.008	66	the-cupboard-of-the-yesterdays	7902	7968	61	 of the area of chronically disturbed territory, a stiffening
 1.006	51	the-mouse	8618	8669	46	Printed by\n\nMorrison & Gibb Limited\n\nEdinburgh
 1.005	23	reginald-on-besetting-sins	4265	4242	30	The Woman Who Told the Truth\n\n
-1.005	37	the-blood-feud-of-toad-water	7553	7590	29	THE BLOOD-FEUD OF\n\nTOAD-WATER
-1.004	26	hermann-the-irascible	5933	5959	875	IT was in the second decade of the twentieth century, after the Great Plague had devastated England, that Hermann the Irascible, nicknamed a…
-1.004	19	the-matchmaker	5250	5269	27	Match-Maker\n\nTHE grill-room
+1.005	33	filboid-studge	6235	6202	32	The Story of a Mouse That Helped
+1.004	24	hermann-the-irascible	5933	5909	29	A Story of the Great Weep\n\nIt
+1.004	13	a-young-turkish-catastrophe	3514	3527	11	sub-section
 1.004	31	the-bakers-dozen	8663	8694	12	 (anxiously)
 1.003	21	the-purple-of-the-balkan-kings	6402	6423	13	Shakespeare's
 1.003	16	the-saint-and-the-goblin	5362	5378	6	••••••
 1.003	37	the-lost-sanjak	12755	12792	12	coffee-house
-1.003	18	filboid-studge	6235	6253	19	Filboid Studge, the
 1.003	17	clovis-on-parental-responsibilities	5948	5965	9	Every one
+1.003	25	esme	9666	9641	13	black-berries
 1.002	12	the-image-of-the-lost-soul	4930	4942	6	 . . .
 1.002	18	the-quince-tree	7415	7433	8	some one
 1.002	25	the-stalled-ox	10314	10339	13	hind-quarters
@@ -32,7 +31,6 @@ ratio	abs_diff	story	repo_chars	wiki_chars	max_brace_len	max_brace_excerpt
 1.002	15	the-forbidden-buzzards	8815	8830	13	after-effects
 1.002	11	the-stampeding-of-lady-bastable	6606	6617	10	lunch-time
 1.002	13	the-stake	8164	8177	12	mantel-piece
-1.002	21	crosscurrents	13514	13535	14	CROSS CURRENTS
 1.001	14	the-threat	9548	9534	13	master-stroke
 1.001	19	the-unrest-cure	12941	12960	12	parlour-maid
 1.001	8	wratislav	5537	5545	8	baroness
@@ -71,12 +69,12 @@ ratio	abs_diff	story	repo_chars	wiki_chars	max_brace_len	max_brace_excerpt
 1.001	6	reginald-at-the-carlton	7299	7305	11	god-parents
 1.001	8	fate	9892	9900	12	half-hearted
 1.001	8	the-bag	9930	9938	12	wood pigeons
+1.001	6	the-blood-feud-of-toad-water	7553	7559	13	eye-witnesses
 1.001	10	hyacinth	12849	12859	13	pastry-cook's
 1.001	7	tea	9159	9166	10	women-folk
 1.001	9	the-cobweb	11789	11798	11	finger-tips
 1.001	7	dusk	9425	9432	9	to-morrow
 1.001	6	the-chaplet	8200	8194	15	hundred-weights
-1.001	7	esme	9666	9673	30	The Chronicles of Clovis\n\nEsmé
 1.001	12	the-remoulding-of-groby-lington	16988	17000	18	semi-consciousness
 1.001	4	the-sex-that-doesnt-shop	5744	5748	11	shrew-mouse
 1.001	8	the-interlopers	11795	11803	18	A Feud and Its End
@@ -98,6 +96,8 @@ ratio	abs_diff	story	repo_chars	wiki_chars	max_brace_len	max_brace_excerpt
 1.000	4	mark	9458	9462	13	encyclopaedia
 1.000	2	judkin-of-the-parcels	4732	4734	8	turn-out
 1.000	2	reginald-at-the-theatre	4744	4746	8	medieval
+1.000	2	the-matchmaker	5250	5252	10	grill-room
+1.000	5	crosscurrents	13514	13519	13	acquaintances
 1.000	4	the-storyteller	10950	10954	12	story-teller
 1.000	5	gabriel-ernest	13840	13845	9	every one
 1.000	4	berties-christmas-eve	11704	11708	9	drum-head
